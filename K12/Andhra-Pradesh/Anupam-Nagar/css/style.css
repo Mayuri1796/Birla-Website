@@ -1,0 +1,1165 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans&display=swap");
+:root {
+  scroll-behavior: smooth;
+}
+
+body .read {
+  background-color: #ad2627;
+  padding: 16px 35px;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+body p {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 31.5px;
+  padding-bottom: 4px;
+  font-family: "Work Sans", sans-serif;
+}
+body h2 {
+  color: #f05a2a;
+  font-size: 47px;
+  line-height: 66px;
+  letter-spacing: -1.2px;
+  font-weight: 500;
+  padding-bottom: 32px;
+  font-family: "Poppins", sans-serif;
+}
+body .container {
+  max-width: 1300px !important;
+}
+body .mobile-nav-toggle {
+  color: #ad2627;
+}
+
+#birla {
+  /*--------------------------------------------------------------
+  # Testimonials
+  --------------------------------------------------------------*/
+}
+#birla #header .logodiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#birla #header .logodiv .logo img {
+  display: inline-block;
+}
+#birla #header .logodiv .logo h6 {
+  color: #303030;
+  font-size: 25px;
+  display: inline-block;
+  vertical-align: middle;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 27px;
+  margin-left: 3px;
+  padding-top: 14px;
+  font-family: "Work Sans", sans-serif;
+  line-height: 38px;
+}
+#birla #header .right_side .call {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 15px;
+}
+#birla #header .right_side .call h6 {
+  color: #f05a2a;
+  font-weight: 600;
+  line-height: 24px;
+  font-size: 14px;
+}
+#birla #header .right_side .call h6 i {
+  margin-right: 10px;
+  font-size: 20px;
+}
+#birla #header .nav-menu {
+  background-color: #f05c2b;
+}
+#birla .navbar ul {
+  gap: 50px;
+}
+#birla .nav_div .logodiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#birla .nav_div .logodiv .logo img {
+  width: 100px;
+  display: inline-block;
+}
+#birla .nav_div .logodiv .logo h6 {
+  font-size: 20px;
+  line-height: 34px;
+  display: inline-block;
+  vertical-align: middle;
+  font-weight: 600;
+  color: #000;
+}
+#birla .nav_div .right_side .call {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 15px;
+}
+#birla .nav_div .right_side .call h6 {
+  color: #f05a2a;
+  font-weight: 600;
+  line-height: 24px;
+  font-size: 14px;
+}
+#birla .nav_div .right_side .call h6 i {
+  margin-right: 10px;
+  font-size: 20px;
+}
+#birla .nav_div a {
+  font-size: 16px;
+  font-weight: 600;
+  color: #000;
+  display: inline-block;
+}
+#birla .nav_div .enquire {
+  background-color: #ad2627;
+  padding: 16px 34px;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+#birla .nav_div .enquire .fa-graduation-cap {
+  padding-left: 13px;
+}
+#birla .nav_section .navbar {
+  padding: 0;
+  color: #fff;
+}
+#birla .nav_section .navbar .navbar-collapse {
+  background: #f05c2b;
+  padding: 10px 0;
+  justify-content: center;
+}
+#birla .nav_section .navbar .navbar-collapse .navbar-nav {
+  gap: 50px;
+}
+#birla .nav_section .navbar .navbar-collapse .navbar-nav .nav-link {
+  color: #fff;
+}
+#birla .about_us {
+  padding: 120px 0 0;
+}
+#birla .about_us .left h6 {
+  color: #7c7c7c;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  padding-bottom: 12px;
+  font-family: "Poppins", sans-serif;
+}
+#birla .about_us .right img {
+  position: relative;
+  width: 100%;
+}
+#birla .about_us .right .icon {
+  background-color: #ad2627;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  bottom: 0;
+}
+#birla .about_us .right .icon i {
+  color: #fff;
+  font-size: 16px;
+  padding: 16px;
+}
+#birla .banner_text {
+  background-color: #ff8e0a;
+}
+#birla .banner_text .head {
+  padding: 131px 80px;
+}
+#birla .banner_text .head h1 {
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 78px;
+  color: #fff;
+  margin: auto;
+  display: flex;
+}
+#birla .banner_text .head h3 {
+  color: #fff;
+  padding-top: 32px;
+  font-size: 40px;
+  line-height: 40px;
+  letter-spacing: -1.5px;
+  font-weight: 300;
+}
+#birla .banner .carousel-control-next,
+#birla .banner .carousel-control-prev {
+  width: 50px;
+  opacity: 1;
+}
+#birla .banner .carousel-control-next-icon,
+#birla .banner .carousel-control-prev-icon {
+  background-image: none;
+  width: 52px;
+  height: 52px;
+  background: #ad2627;
+}
+#birla .banner .carousel-control-next-icon i,
+#birla .banner .carousel-control-prev-icon i {
+  font-size: 50px;
+}
+#birla .why_choose {
+  padding: 120px 0 0;
+}
+#birla .why_choose h2 {
+  color: #f05a2a;
+  font-size: 48px;
+  line-height: 40px;
+  letter-spacing: -1.86px;
+  font-weight: 500;
+  padding-bottom: 36px;
+}
+#birla .why_choose .left_img img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+  height: 500px;
+}
+#birla .why_choose .img_list .right_list {
+  padding: 30px 50px;
+}
+#birla .why_choose .img_list .right_list ul {
+  padding-left: 0;
+}
+#birla .why_choose .img_list .right_list ul li {
+  list-style-type: none;
+  color: #fff;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 21px;
+  letter-spacing: -0.18px;
+}
+#birla .why_choose .img_list .right_list ul .hr_line {
+  border: 2px dotted #821213;
+}
+#birla .education {
+  padding: 120px 0 0;
+}
+#birla .education h6 {
+  color: #7c7c7c;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  padding-bottom: 12px;
+  font-family: "Poppins", sans-serif;
+}
+#birla .education .image .card {
+  max-height: 100%;
+}
+#birla .education .image .card .bg-color {
+  background-color: #821213;
+}
+#birla .education .image .card .bg-color h3 {
+  color: #fff;
+  font-size: 31px;
+  line-height: 40px;
+  font-weight: 500;
+  letter-spacing: 0.77px;
+}
+#birla .education .image .card img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 400px;
+}
+#birla .news {
+  padding: 120px 0 0;
+}
+#birla .news h6 {
+  color: #7c7c7c;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  padding-bottom: 12px;
+  font-family: "Poppins", sans-serif;
+}
+#birla .news .image .card {
+  height: 419px;
+}
+#birla .news .image .card img {
+  position: relative;
+  width: 100%;
+}
+#birla .news .image .card .icon {
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: #ff8e0a;
+  width: 52px;
+  height: 50px;
+}
+#birla .news .image .card .icon i {
+  width: 50px;
+  font-size: 30px;
+  color: #fff;
+  display: block;
+  text-align: center;
+}
+#birla .news .image .card .bg-color p {
+  color: #000;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: -0.18px;
+  font-family: "Poppins", sans-serif;
+}
+#birla .news .image .card .bg-color .para {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+  font-family: "Work Sans", sans-serif;
+}
+#birla .news_events .image .card {
+  height: 504px;
+  margin-top: 30px;
+}
+#birla .news_events .image .card .icon1 {
+  width: 52px;
+  padding: 15px;
+  background: #ad2627;
+  color: #fff;
+}
+#birla .news_events .image .card .icon1 i {
+  display: block;
+  text-align: center;
+}
+#birla .blog h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: -1.2px;
+  color: #000000;
+  margin: 25px 0;
+}
+#birla .blog p {
+  font-family: "Work Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+#birla .gallery {
+  padding: 120px 0 0;
+}
+#birla .gallery .post-slide2 {
+  margin: 0 15px;
+  box-shadow: 0 1px 2px rgba(43, 59, 93, 0.3);
+  margin-bottom: 2em;
+}
+#birla .gallery .post-slide2 .post-img {
+  overflow: hidden;
+}
+#birla .gallery .post-slide2 .post-img img {
+  transform: scale(1);
+  transition: all 1s ease-in-out 0s;
+  width: 100%;
+}
+#birla .gallery .iconimg {
+  position: relative;
+}
+#birla .gallery .icon2 {
+  width: 52px;
+  padding: 15px;
+  background: #ad2627;
+  color: #fff;
+  position: absolute;
+  bottom: -86px;
+}
+#birla .gallery .icon2 i {
+  display: block;
+  text-align: center;
+}
+#birla .testimonial .card p {
+  color: #fff;
+  font-family: "Work Sans", sans-serif;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+#birla .testimonial .card .one {
+  background-color: #ad2a2b;
+}
+#birla .testimonial .card .two {
+  background-color: #f9a226;
+}
+#birla .testimonial .card .three {
+  background-color: #c9402b;
+}
+#birla .testimonial .card .four {
+  background-color: #f05a2a;
+}
+#birla .testimonial .card .five {
+  background-color: #ad2a2b;
+}
+#birla .testimonial .card .six {
+  background-color: #c9402b;
+}
+#birla .testimonial .spacing1 {
+  margin-top: 30px;
+}
+#birla .testimonial .spacing2 {
+  margin-top: -165px;
+}
+#birla .testimonial .spacing3 {
+  margin-top: -198px;
+}
+#birla .footer {
+  margin-top: 120px;
+}
+#birla .footer .legacy {
+  background-color: #f9a226;
+}
+#birla .footer .legacy h2 {
+  color: #fff;
+}
+#birla .footer .legacy form button {
+  background-color: white;
+  padding: 12px 0;
+  border-radius: 8px;
+  color: #f9a226;
+  border: none;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 10px;
+}
+#birla .footer .legacy form input {
+  background: white;
+  padding: 13px 10px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 10px;
+  border: none;
+}
+#birla .footer .legacy form input:hover {
+  border: none;
+}
+#birla .footer .legacy form ::-moz-placeholder {
+  color: #b1b1b1;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+#birla .footer .legacy form ::placeholder {
+  color: #b1b1b1;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+#birla .footer .legacy form .form-group select.form-control {
+  color: #b1b1b1 !important;
+}
+#birla .footer_section {
+  background-color: #1c1c1c;
+  padding: 120px 160px 60px;
+}
+#birla .footer_section h6 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  padding-bottom: 38px;
+}
+#birla .footer_section ul {
+  padding-left: 0;
+}
+#birla .footer_section ul li {
+  list-style-type: none;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: 1.54px;
+  padding-bottom: 20px;
+  font-family: "Work Sans", sans-serif;
+}
+#birla .footer_section ul li a {
+  color: #fff;
+}
+#birla .footer_section ul .num {
+  color: #f05c2b;
+}
+#birla .footer_section .social .fa,
+#birla .footer_section .social .bi {
+  padding-right: 25px;
+  font-size: 25px;
+  color: #fff;
+}
+#birla .about_vision {
+  padding: 120px 0 0;
+}
+#birla .about_vision img {
+  width: 100%;
+}
+#birla .about_vision .vision_text #main #faq .card {
+  margin-bottom: 25px;
+  border: 0;
+  color: #fff;
+}
+#birla .about_vision .vision_text #main #faq .card .card-header {
+  border: 0;
+  padding: 0;
+}
+#birla .about_vision .vision_text #main #faq .card .card-header .btn-header-link {
+  display: block;
+  text-align: left;
+  background: #f05a2a;
+  color: #fff;
+  padding: 20px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 31px;
+  letter-spacing: -0.18px;
+  border-radius: 0 !important;
+}
+#birla .about_vision .vision_text #main #faq .card .card-header .btn-header-link:after {
+  content: "\f106";
+  font-family: fontawesome;
+  float: right;
+}
+#birla .about_vision .vision_text #main #faq .card .card-header .btn-header-link.collapsed {
+  background-color: #f05a2a;
+}
+#birla .about_vision .vision_text #main #faq .card .card-header .btn-header-link.collapsed::after {
+  content: "\f107";
+  font-family: fontawesome;
+}
+#birla .about_vision .vision_text #main #faq .card .collapsing {
+  line-height: 30px;
+  background: #f05a2a;
+}
+#birla .about_vision .vision_text #main #faq .card .collapse.show {
+  background: #f05a2a;
+  line-height: 30px;
+}
+#birla .vision {
+  padding: 120px 0 0;
+}
+#birla .vision img {
+  position: absolute;
+  z-index: -1;
+  right: 120px;
+}
+#birla .vision_text #main #faq {
+  position: relative;
+}
+#birla .vision_text #main #faq .card {
+  margin-bottom: 25px;
+  border: 0;
+  color: #fff;
+}
+#birla .vision_text #main #faq .card .card-header {
+  border: 0;
+  padding: 0;
+}
+#birla .vision_text #main #faq .card .card-header .btn-header-link {
+  display: block;
+  text-align: left;
+  background: #f05a2a;
+  color: #fff;
+  padding: 20px;
+  font-weight: 700;
+  font-size: 27px;
+  line-height: 31px;
+  letter-spacing: -0.18px;
+  border-radius: 0 !important;
+}
+#birla .vision_text #main #faq .card .card-header .btn-header-link:after {
+  content: "\f106";
+  font-family: fontawesome;
+  float: right;
+}
+#birla .vision_text #main #faq .card .card-header .btn-header-link.collapsed {
+  background-color: #f05a2a;
+}
+#birla .vision_text #main #faq .card .card-header .btn-header-link.collapsed::after {
+  content: "\f107";
+  font-family: fontawesome;
+}
+#birla .vision_text #main #faq .card .collapsing {
+  line-height: 30px;
+  background: #f05a2a;
+}
+#birla .vision_text #main #faq .card .collapse.show {
+  background: #f05a2a;
+  line-height: 30px;
+}
+#birla .people {
+  padding: 120px 0 0;
+}
+#birla .people .team {
+  position: relative;
+  border-radius: 0 !important;
+}
+#birla .people .team .image {
+  width: 100%;
+  height: 400px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+#birla .people .team .card-body {
+  background-color: #f9a226;
+  color: #fff;
+}
+#birla .people .team .card-body h5 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: -0.2px;
+}
+#birla .people .team .card-body h6 {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: -0.2px;
+}
+#birla .people .team .overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #ad2a2b;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: 0.5s ease;
+}
+#birla .people .team .overlay .text p {
+  color: white;
+  font-size: 17px;
+  line-height: 31px;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 400;
+  position: absolute;
+  padding: 20px;
+  text-align: left;
+}
+#birla .people .team .overlay .text .icon {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: white;
+  text-align: center;
+  color: #ad2627;
+  padding: 7px 10px;
+}
+#birla .people .team .overlay .text .icon i {
+  font-size: 25px;
+}
+#birla .people .team:hover .overlay {
+  height: 100%;
+}
+#birla .program_section img {
+  width: 100%;
+}
+#birla .program_section .about_us .left h6 {
+  color: #7c7c7c;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  padding-bottom: 12px;
+  font-family: "Poppins", sans-serif;
+}
+#birla .program_section .number1 {
+  position: relative;
+}
+#birla .program_section .number1 .about_us .num {
+  position: absolute;
+  top: -50px;
+  left: 285px;
+}
+#birla .program_section .number1 .about_us .num span {
+  color: #e4e4e4;
+  font-size: 185px;
+}
+#birla .program_section .number2 {
+  position: relative;
+}
+#birla .program_section .number2 .about_us .num {
+  position: absolute;
+  top: -50px;
+  right: 80px;
+}
+#birla .program_section .number2 .about_us .num span {
+  color: #e4e4e4;
+  font-size: 185px;
+}
+#birla .program_section .number3 {
+  position: relative;
+}
+#birla .program_section .number3 .about_us .num {
+  position: absolute;
+  top: -50px;
+  left: 280px;
+}
+#birla .program_section .number3 .about_us .num span {
+  color: #e4e4e4;
+  font-size: 185px;
+}
+#birla .program_section .number4 {
+  position: relative;
+}
+#birla .program_section .number4 .about_us .num {
+  position: absolute;
+  top: -50px;
+  right: 20px;
+}
+#birla .program_section .number4 .about_us .num span {
+  color: #e4e4e4;
+  font-size: 185px;
+}
+#birla .program_section .number5 {
+  position: relative;
+}
+#birla .program_section .number5 .about_us .num {
+  position: absolute;
+  top: -50px;
+  left: 445px;
+}
+#birla .program_section .number5 .about_us .num span {
+  color: #e4e4e4;
+  font-size: 185px;
+}
+#birla .gallery .photos h4 {
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: -1.2000000477px;
+  text-align: left;
+  color: #f05a2a;
+  padding-bottom: 40px;
+}
+#birla .gallery .photos .owl-theme .owl-controls .owl-page span {
+  width: 8px;
+  height: 8px;
+  background: #ad2627;
+}
+#birla .gallery .photos .post-slide2 {
+  margin: 0 15px;
+  box-shadow: 0 1px 2px rgba(43, 59, 93, 0.3);
+  margin-bottom: 2em;
+}
+#birla .gallery .photos .post-slide2 .post-img {
+  overflow: hidden;
+}
+#birla .gallery .photos .post-slide2 .post-img img {
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+#birla .gallery_collapse .collapse .card #gallery_slider4 {
+  opacity: 1 !important;
+}
+#birla .gallery_collapse .collapse .card-body {
+  border: none;
+}
+#birla .gallery_collapse button {
+  display: block;
+  margin: auto;
+}
+#birla .learning_env .bomps_left {
+  font-size: 30px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 25px 25px 25px 100px;
+}
+#birla .learning_env .bomps_left img {
+  width: 55px;
+  height: 50px;
+  margin-right: 20px;
+}
+#birla .learning_env .bomps_left h6 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 31px;
+  letter-spacing: -0.18px;
+  color: #fff;
+  font-family: "Public Sans", sans-serif;
+  text-align: left;
+}
+#birla .learning_env .list1 {
+  background-color: #ad2627;
+}
+#birla .learning_env .list2 {
+  background-color: #c9402b;
+}
+#birla .learning_env .list3 {
+  background-color: #f05c2b;
+}
+#birla .learning_env .list4 {
+  background-color: #ec802a;
+}
+#birla .learning_env .list5 {
+  background-color: #f9a226;
+}
+#birla .learning_env .list6 {
+  background-color: #ad2627;
+}
+#birla .learning_env .list7 {
+  background-color: #c9402b;
+}
+#birla .learning_env .right-img img {
+  width: 100%;
+  height: 94vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+#birla .learning_env .teachers_parent img {
+  width: 100%;
+  height: 75.5vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+#birla .career {
+  padding: 80px 0;
+}
+#birla .career .vacancy1 {
+  background-color: #e4e4e4;
+  padding: 30px;
+}
+#birla .career .vacancy1 h6 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 2.4px;
+  text-align: left;
+  color: #7c7c7c;
+  text-transform: uppercase;
+}
+#birla .career .vacancy1 h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: -1.2px;
+  color: #000000;
+  padding: 20px 0;
+}
+#birla .career .vacancy1 p {
+  color: #000000;
+  font-family: "Work Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0px;
+  padding-bottom: 10px;
+}
+#birla .career .vacancy1 .read_more {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  border: none;
+  background-color: transparent;
+  padding: 10px 0;
+}
+#birla .contact {
+  padding: 60px 0 0;
+}
+#birla .contact p {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  font-size: 17px;
+  line-height: 24px;
+}
+#birla .contact i {
+  margin-right: 20px;
+  font-size: 24px;
+  color: #f05a2a;
+}
+#birla .map {
+  padding-top: 100px;
+}
+#birla .contact_form {
+  padding: 120px 0 0;
+}
+#birla .contact_form img {
+  width: 100%;
+}
+#birla .contact_form .main-form .form {
+  display: block;
+}
+#birla .contact_form .main-form .form .card {
+  border: none;
+  background-color: transparent;
+}
+#birla .contact_form .main-form .form .card .card-body {
+  background-color: #ff8e0a;
+  width: 100%;
+  border: none;
+  box-shadow: 0px, 3px rgba(0, 0, 0, 0.25) offset;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 25px !important;
+}
+#birla .contact_form .main-form .form .card .card-body .form-control {
+  height: 50px;
+  width: 100%;
+  border: 2px solid white;
+  background-color: white;
+  border-radius: 0;
+  color: #cdcdcd;
+}
+#birla .contact_form .main-form .form form h3 {
+  padding-bottom: 28px;
+  color: #fff;
+  font-size: 48px;
+  line-height: 56px;
+  font-family: "Public Sans", sans-serif;
+}
+#birla .contact_form .main-form .form form h6 {
+  color: #ad2627;
+  padding-bottom: 10px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  font-family: "Poppins", sans-serif;
+}
+#birla .contact_form .main-form .form form .form-group button {
+  margin-left: 202px;
+}
+#birla .contact_form .main-form .form form .form-group .inputBox {
+  position: relative;
+}
+#birla .contact_form .main-form .form form .form-group .inputBox input {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 10px;
+  background: #ff8e0a;
+  outline: none;
+  height: 50px;
+  border: 2px solid white;
+  background-color: white;
+  border-radius: 0;
+}
+#birla .contact_form .main-form .form form .form-group .inputBox span {
+  position: absolute;
+  left: 0;
+  padding: 10px;
+  pointer-events: none;
+  transition: 0.5s;
+  color: #cdcdcd;
+  font-family: "Public Sans", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+}
+#birla .contact_form .main-form .form form .form-group .inputBox input:valid ~ span,
+#birla .contact_form .main-form .form form .form-group .inputBox input:focus ~ span {
+  color: white;
+  transform: translateX(10px) translateY(-10px);
+  padding: 0 10px;
+  line-height: 21px;
+  font-size: 16px;
+  letter-spacing: 1px;
+  background-color: #ff8e0a;
+}
+#birla .contact_form .main-form .form form .form-group .inputBox input:valid,
+#birla .contact_form .main-form .form form .form-group .inputBox input:focus {
+  border: 1px solid red;
+}
+#birla .contact_form .main-form .form form .form-group .inputBox:nth-child(2) input:valid ~ span, #birla .contact_form .main-form .form form .form-group .inputBox:nth-child(2) input:focus ~ span {
+  background-color: red;
+}
+#birla .contact_form .main-form .form form .form-group ::-moz-placeholder {
+  color: #fff;
+  position: absolute;
+  left: 0;
+  padding: 5px;
+  pointer-events: none;
+  -moz-transition: 0.5s;
+  transition: 0.5s;
+  color: #fff;
+  font-family: "Public Sans", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+}
+#birla .contact_form .main-form .form form .form-group ::placeholder,
+#birla .contact_form .main-form .form form .form-group select {
+  color: #fff;
+  position: absolute;
+  left: 0;
+  padding: 5px;
+  pointer-events: none;
+  transition: 0.5s;
+  color: #fff;
+  font-family: "Public Sans", sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+}
+#birla .contact_form .main-form .form form .form-group select option {
+  color: #000;
+}
+#birla .contact_form .main-form .form form .form-group select option:hover {
+  background-color: #ff8e0a !important;
+}
+#birla .contact_form .main-form .form form .form-group input:required:focus {
+  border: 2px solid #ad2627;
+}
+#birla .contact_form .main-form .form form .form-group .form-control:focus {
+  box-shadow: none !important;
+}
+#birla .rs {
+  padding: 160px 0 0;
+}
+#birla .rs h6 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 2.4px;
+  text-align: left;
+  color: #7c7c7c;
+  text-transform: uppercase;
+}
+#birla .testimonials {
+  padding: 160px 0 0;
+}
+#birla .testimonials .testimonial-item {
+  box-sizing: content-box;
+  padding: 30px;
+  margin: 40px 30px;
+  box-shadow: 0px 0 20px rgba(1, 41, 112, 0.1);
+  transition: 0.3s;
+  flex-shrink: 0;
+  background: #f9a226 !important;
+}
+#birla .testimonials .testimonial-item .stars {
+  margin-bottom: 15px;
+}
+#birla .testimonials .testimonial-item .stars i {
+  color: #ffc107;
+  margin: 0 1px;
+}
+#birla .testimonials .testimonial-item .testimonial-img {
+  width: 90px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  margin: 0 auto;
+}
+#birla .testimonials .testimonial-item p {
+  color: #fff !important;
+  text-align: left;
+  margin: 0 auto 15px auto;
+  font-style: normal !important;
+}
+#birla .testimonials .testimonial-item .pd {
+  font-family: "Poppins", sans-serif;
+  font-size: 60px;
+  font-weight: 500;
+  line-height: 66px;
+  letter-spacing: 0em;
+}
+#birla .testimonials .testimonial-item .pd1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: -0.1px;
+  text-align: left;
+}
+#birla .testimonials .testimonial-item h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px 0 5px 0;
+  color: #fff;
+}
+#birla .testimonials .testimonial-item h4 {
+  font-size: 14px;
+  color: #fff;
+  margin: 0;
+}
+#birla .testimonials .swiper-slide {
+  opacity: 1 !important;
+}
+#birla .testimonials .swiper-pagination {
+  margin-top: 20px;
+  position: relative;
+}
+#birla .testimonials .swiper-pagination .swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background-color: #fff;
+  opacity: 1;
+  border: 1px solid #4154f1;
+}
+#birla .testimonials .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: #4154f1;
+}
+#birla .blog_one {
+  padding: 160px 0 0;
+}
+#birla .blog_one img {
+  display: flex;
+  margin: auto;
+  margin-top: 30px;
+}
+#birla .blog_one .blog_one_para {
+  padding-top: 60px;
+  font-family: "Work Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0px;
+}
+#birla .blog_one h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: -1.2px;
+  color: #000000;
+  margin: 20px 0;
+}
+#birla .blog_one h5 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #f05a2a;
+}
+#birla .blog img,
+#birla .blog_one img {
+  width: 100%;
+}/*# sourceMappingURL=style.css.map */

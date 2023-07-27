@@ -1,0 +1,573 @@
+@media screen and (min-width: 1024px) and (max-width: 1440px) {
+  #birla a.getstarted {
+    padding: 16px 25px;
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    font-weight: 700;
+    font-size: 11px;
+  }
+  #birla #header .nav-menu {
+    background: #f15e2e;
+  }
+  #birla .nav_div .enquire {
+    padding: 8px 20px;
+  }
+  #birla .nav_section .navbar .navbar-collapse .navbar-nav {
+    gap: 15px;
+  }
+  #birla .banner #custCarousel .carousel-indicators {
+    margin-right: 123px;
+  }
+  #birla .banner #custCarousel .carousel-indicators li img {
+    width: 150px;
+    height: 100px;
+  }
+  #birla .about_us {
+    padding: 100px 0 0;
+  }
+  #birla .about_us .right img {
+    width: 100%;
+  }
+  #birla .about_us .right .icon {
+    bottom: 51px;
+  }
+  #birla .why_choose h2 {
+    font-size: 37px;
+    line-height: 33px;
+    letter-spacing: 0;
+  }
+  #birla .why_choose .img_list .right_list {
+    padding: 30px 30px;
+  }
+  #birla .why_choose .img_list .right_list ul li {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17px;
+  }
+  #birla .why_choose .img_list .right_list ul .hr_line {
+    margin: 10px 0;
+  }
+  #birla .why_choose .img_list .left_img img {
+    height: 133vh;
+  }
+  #birla .education {
+    padding: 80px 0 0;
+  }
+  #birla .education .programs h2 {
+    font-size: 30px;
+    line-height: 33px;
+    letter-spacing: 0;
+  }
+  #birla .education .image .card .bg-color h2 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  #birla .contact_form .form_img img {
+    width: 100%;
+  }
+  #birla .contact_form .main-form {
+    left: -156px;
+    top: 51px;
+  }
+  #birla .contact_form .main-form .form form .form-group .inputBox input {
+    width: 100%;
+  }
+  #birla .contact_form .main-form .form .card .card-body .form-control {
+    width: 100%;
+  }
+  #birla .program_section .number1 .about_us .num {
+    top: 2px;
+    left: 163px;
+  }
+  #birla .program_section .number1 .about_us .num span {
+    font-size: 100px;
+  }
+  #birla .program_section .number1 .about_us .num {
+    top: -47px;
+    left: 294px;
+  }
+  #birla .program_section .number1 .about_us .num span {
+    font-size: 150px;
+  }
+  #birla .program_section .number2 .about_us .num {
+    top: 2px;
+    right: 54px;
+  }
+  #birla .program_section .number2 .about_us .num span {
+    font-size: 100px;
+  }
+  #birla .program_section .number3 .about_us .num {
+    top: 2px;
+    left: 163px;
+  }
+  #birla .program_section .number3 .about_us .num span {
+    font-size: 100px;
+  }
+  #birla .program_section .number4 .about_us .num {
+    top: 2px;
+    right: 24px;
+  }
+  #birla .program_section .number4 .about_us .num span {
+    font-size: 100px;
+  }
+  #birla .program_section .number5 .about_us .num {
+    top: 2px;
+    left: 260px;
+  }
+  #birla .program_section .number5 .about_us .num span {
+    font-size: 100px;
+  }
+  #birla .news .image .card {
+    height: 310px;
+  }
+  #birla .footer_section {
+    padding: 60px 30px 60px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #birla .nav_section .navbar .navbar-collapse .navbar-nav {
+    gap: 10px;
+  }
+  #birla .nav_section .navbar .navbar-collapse .navbar-nav li a {
+    padding: 5px 20px;
+    font-size: 15px;
+  }
+  #birla .nav_section .navbar-toggler {
+    margin-left: auto;
+    font-size: 30px;
+    color: #ad2627;
+  }
+  #birla .nav-menu a {
+    color: #000;
+  }
+  #birla .navbar-mobile {
+    background-color: rgba(173, 38, 39, 0.88);
+  }
+  #birla #header .logodiv .logo h6 {
+    line-height: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 500;
+    color: #303030;
+    margin-top: 25px;
+    font-size: 16px;
+  }
+  #birla #header .right_side .call h6 {
+    font-size: 12px;
+  }
+  #birla #header .right_side a.getstarted {
+    padding: 16px 20px;
+  }
+  #birla .banner #custCarousel .carousel-indicators {
+    margin-right: 64px;
+  }
+  #birla .banner #custCarousel .carousel-indicators li img {
+    width: 120px;
+    height: 70px;
+  }
+  #birla .about_us {
+    padding: 100px 0 0;
+  }
+  #birla .about_us .left h2 {
+    font-size: 28px;
+    line-height: 40px;
+  }
+  #birla .about_us .right img {
+    width: 100%;
+  }
+  #birla .about_us .right .icon {
+    bottom: 260px;
+  }
+  #birla .why_choose {
+    padding: 80px 0 0;
+  }
+  #birla .why_choose h2 {
+    font-size: 30px;
+    line-height: 33px;
+    letter-spacing: 0;
+  }
+  #birla .why_choose h6 {
+    font-size: 15px;
+  }
+  #birla .why_choose .img_list .right_list {
+    padding: 30px 30px;
+  }
+  #birla .why_choose .img_list .right_list ul li {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17px;
+  }
+  #birla .why_choose .img_list .right_list ul .hr_line {
+    margin: 10px 0;
+  }
+  #birla .news .image .card {
+    height: 310px;
+  }
+  #birla .education {
+    padding: 80px 0 0;
+  }
+  #birla .education .programs h2 {
+    font-size: 30px;
+    line-height: 33px;
+    letter-spacing: 0;
+  }
+  #birla .education .image .card .bg-color h2 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  #birla .education .image .card .bg-color h3 {
+    font-size: 21px;
+  }
+  #birla .education .image .card img {
+    height: 35vh;
+  }
+  #birla .vision {
+    padding: 100px 0 0;
+  }
+  #birla .vision .vision_text #main h2 {
+    font-size: 37px;
+  }
+  #birla .vision .vision_text #main #faq .card .card-header .btn-header-link {
+    font-size: 20px;
+    padding: 10px;
+  }
+  #birla .gallery {
+    padding: 100px 0 0;
+  }
+  #birla .gallery h2 {
+    font-size: 37px;
+  }
+  #birla .contact_form .form_img img {
+    width: 100%;
+  }
+  #birla .contact_form .main-form {
+    left: -116px;
+    top: 26px;
+  }
+  #birla .contact_form .main-form .form .card .card-body {
+    width: 100%;
+  }
+  #birla .contact_form .main-form .form .card .card-body .form-control {
+    width: 100%;
+  }
+  #birla .contact_form .main-form .form form .form-group .inputBox input {
+    height: 40px;
+    width: 100%;
+  }
+  #birla .program_section .number1 .about_us .num {
+    top: 2px;
+    left: 163px;
+  }
+  #birla .program_section .number1 .about_us .num span {
+    font-size: 100px;
+  }
+  #birla .program_section .number1 .about_us .num {
+    top: 2px;
+    left: 163px;
+  }
+  #birla .program_section .number1 .about_us .num span {
+    font-size: 100px;
+  }
+  #birla .program_section .number2 .about_us .num {
+    top: 2px;
+    right: 54px;
+  }
+  #birla .program_section .number2 .about_us .num span {
+    font-size: 100px;
+  }
+  #birla .program_section .number3 .about_us .num {
+    top: 2px;
+    left: 163px;
+  }
+  #birla .program_section .number3 .about_us .num span {
+    font-size: 100px;
+  }
+  #birla .program_section .number4 .about_us .num {
+    top: 2px;
+    right: 24px;
+  }
+  #birla .program_section .number4 .about_us .num span {
+    font-size: 100px;
+  }
+  #birla .program_section .number5 .about_us .num {
+    top: 2px;
+    left: 260px;
+  }
+  #birla .program_section .number5 .about_us .num span {
+    font-size: 100px;
+  }
+  #birla .learning_env .bomps_left {
+    padding: 15px;
+  }
+  #birla .learning_env .bomps_left h6 {
+    font-size: 15px;
+  }
+  #birla .contact p {
+    font-size: 10px;
+  }
+  #birla .contact i {
+    margin-right: 10px;
+    font-size: 15px;
+  }
+  #birla .footer {
+    margin-top: 100px;
+  }
+  #birla .footer_section {
+    padding: 60px 30px 60px;
+  }
+}
+@media screen and (max-width: 767px) {
+  #birla .nav_div .right_side {
+    display: none;
+  }
+  #birla #header .nav-menu {
+    background-color: transparent;
+  }
+  #birla #header .nav-menu nav {
+    background-color: #f05c2b;
+  }
+  #birla #header .right_side {
+    display: none;
+  }
+  #birla #header .logodiv .logo h6 {
+    font-size: 20px;
+  }
+  #birla .nav_section .navbar .navbar-collapse .navbar-nav {
+    gap: 10px;
+    gap: 10px;
+    padding: 0 25px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    font-family: "Work Sans", sans-serif;
+  }
+  #birla .nav_section .navbar .navbar-toggler {
+    font-size: 30px;
+    margin-left: auto;
+    color: #ad2627;
+  }
+  #birla .nav-menu a {
+    color: #000;
+  }
+  #birla .navbar-mobile {
+    background-color: rgba(173, 38, 39, 0.88);
+  }
+  #birla .banner .banner_text .head {
+    padding: 50px 13px;
+  }
+  #birla .banner .banner_text .head h1 {
+    font-size: 35px;
+    line-height: 55px;
+  }
+  #birla .banner .banner_text .head h3 {
+    font-size: 24px;
+    letter-spacing: 0;
+  }
+  #birla .banner #custCarousel .carousel-indicators {
+    margin-right: 0;
+  }
+  #birla .banner #custCarousel .carousel-indicators li img {
+    width: 100px;
+    height: 70px;
+  }
+  #birla .about_us {
+    padding: 90px 0 0;
+  }
+  #birla .about_us .left h2 {
+    font-size: 27px;
+    line-height: 40px;
+  }
+  #birla .about_us .left h6 {
+    margin-top: 20px;
+  }
+  #birla .about_us .right img {
+    margin-top: 50px;
+    width: 100%;
+  }
+  #birla .about_us .right .icon {
+    bottom: 0;
+  }
+  #birla .why_choose {
+    padding: 80px 0 0;
+  }
+  #birla .why_choose .bomps_left h6 {
+    font-size: 17px;
+  }
+  #birla .why_choose h2 {
+    font-size: 27px;
+    line-height: 40px;
+    letter-spacing: 0;
+  }
+  #birla .why_choose .img_list .right_list {
+    padding: 30px 15px;
+  }
+  #birla .why_choose .img_list .right_list ul li {
+    font-size: 16px;
+  }
+  #birla .news .image .card {
+    margin-top: 30px;
+    height: 500px;
+  }
+  #birla .news .image .news-card {
+    height: 390px;
+  }
+  #birla .about_vision .vision_text #main #faq .card .card-header .btn-header-link {
+    font-size: 25px;
+    padding: 10px;
+  }
+  #birla .people .team {
+    margin-top: 30px;
+  }
+  #birla .education {
+    padding: 80px 0 0;
+  }
+  #birla .education .programs {
+    display: block;
+  }
+  #birla .education .programs h2 {
+    font-size: 27px;
+    line-height: 40px;
+    letter-spacing: 0;
+  }
+  #birla .education .image .card {
+    margin-top: 30px;
+  }
+  #birla .education .image .card img {
+    height: 80vh;
+  }
+  #birla .education .image .card .bg-color h3 {
+    font-size: 19px;
+  }
+  #birla .vision {
+    padding: 100px 0 0;
+  }
+  #birla .vision .vision_text #main h2 {
+    font-size: 28px;
+  }
+  #birla .vision .vision_text #main #faq .card .card-header .btn-header-link {
+    font-size: 15px;
+  }
+  #birla .vision img {
+    position: static;
+  }
+  #birla .gallery {
+    padding: 80px 0 0;
+  }
+  #birla .gallery h2 {
+    font-size: 28px;
+  }
+  #birla .learning_env .right-img img {
+    width: 100%;
+    height: 100vh;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  #birla .learning_env .bomps_left {
+    padding: 25px 0 25px 10px;
+  }
+  #birla .contact_form {
+    padding: 100px 0 0;
+  }
+  #birla .contact_form .form_img img {
+    width: 100%;
+  }
+  #birla .contact_form .main-form {
+    position: static;
+  }
+  #birla .contact_form .main-form .form .card {
+    margin-top: 40px;
+  }
+  #birla .contact_form .main-form .form .card .card-body {
+    width: 100%;
+  }
+  #birla .contact_form .main-form .form .card .card-body .form-control {
+    width: 100%;
+  }
+  #birla .contact_form .main-form .form form .form-group button {
+    margin-left: 0;
+  }
+  #birla .contact_form .main-form .form form .form-group .inputBox input {
+    width: 100%;
+  }
+  #birla .about_vision {
+    padding: 80px 0 0;
+  }
+  #birla .about_vision .vision_text {
+    margin-top: 60px;
+  }
+  #birla .contact p {
+    font-size: 15px;
+  }
+  #birla .contact .address,
+  #birla .contact .mail {
+    margin-top: 20px;
+  }
+  #birla .contact h2 {
+    font-size: 28px;
+  }
+  #birla .footer {
+    margin-top: 80px;
+  }
+  #birla .footer .legacy {
+    padding: 70px 15px 60px;
+  }
+  #birla .footer .legacy h2 {
+    font-size: 28px;
+  }
+  #birla .footer .legacy form label,
+  #birla .footer .legacy form button {
+    width: 100%;
+  }
+  #birla .footer .footer_section {
+    padding: 70px 15px 60px;
+  }
+  #birla .footer .footer_section iframe {
+    margin-top: 20px;
+  }
+  #birla .facilities {
+    padding: 80px 0 0;
+  }
+  #birla .facilities h2 {
+    font-size: 28px;
+  }
+  #birla .rs,
+  #birla .news,
+  #birla .testimonial {
+    padding: 80px 0 0;
+  }
+  #birla .rs h2,
+  #birla .news h2,
+  #birla .testimonial h2 {
+    font-size: 28px;
+  }
+  #birla .gallery .photos h4 {
+    font-size: 28px;
+  }
+  #birla .testimonial {
+    padding: 80px 0 0;
+  }
+  #birla .testimonial .card {
+    margin-top: 20px;
+  }
+  #birla .program_section .number1 .about_us .num,
+  #birla .program_section .number2 .about_us .num,
+  #birla .program_section .number3 .about_us .num,
+  #birla .program_section .number4 .about_us .num,
+  #birla .program_section .number5 .about_us .num {
+    display: none;
+  }
+}
+@media (max-width: 1199px) {
+  .testimonials .swiper-slide-active {
+    opacity: 1;
+  }
+  .testimonials .swiper-pagination {
+    margin-top: 0;
+  }
+}
+@media (min-width: 1200px) {
+  .testimonials .swiper-slide-next {
+    opacity: 1;
+  }
+}/*# sourceMappingURL=responsive.css.map */

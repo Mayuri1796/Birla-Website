@@ -1,0 +1,862 @@
+@media screen and (min-width: 1024px) and (max-width: 1440px) {
+  #birla {
+    a.getstarted {
+      padding: 16px 25px;
+      color: #fff;
+      border-radius: 8px;
+      border: none;
+      font-weight: 700;
+      font-size: 11px;
+    }
+    #header {
+      .nav-menu {
+        background: #f15e2e;
+      }
+    }
+    .nav_div {
+      .enquire {
+        padding: 8px 20px;
+      }
+    }
+    .nav_section {
+      .navbar {
+        .navbar-collapse {
+          .navbar-nav {
+            gap: 15px;
+          }
+        }
+      }
+    }
+    .banner {
+      #custCarousel {
+        .carousel-indicators {
+          margin-right: 123px;
+          li {
+            img {
+              width: 150px;
+              height: 100px;
+            }
+          }
+        }
+      }
+    }
+    .about_us {
+      padding: 100px 0 0;
+      .right {
+        img {
+          width: 100%;
+        }
+        .icon {
+          bottom: 51px;
+        }
+      }
+    }
+    .why_choose {
+      h2 {
+        font-size: 37px;
+        line-height: 33px;
+        letter-spacing: 0;
+      }
+      .img_list {
+        .right_list {
+          padding: 30px 30px;
+          ul {
+            li {
+              font-weight: 500;
+              font-size: 16px;
+              line-height: 17px;
+            }
+            .hr_line {
+              margin: 10px 0;
+            }
+          }
+        }
+        .left_img {
+          img {
+            height: 133vh;
+          }
+        }
+      }
+    }
+    .education {
+      padding: 80px 0 0;
+      .programs h2 {
+        font-size: 30px;
+        line-height: 33px;
+        letter-spacing: 0;
+      }
+      .image {
+        .card {
+          .bg-color {
+            h2 {
+              font-size: 18px;
+              line-height: 30px;
+            }
+          }
+        }
+      }
+    }
+
+    .contact_form {
+      .form_img {
+        img {
+          width: 100%;
+        }
+      }
+      .main-form {
+        left: -156px;
+        top: 51px;
+        .form {
+          form {
+            .form-group {
+              .inputBox {
+                input {
+                  width: 100%;
+                }
+              }
+            }
+          }
+          .card {
+            .card-body {
+              .form-control {
+                width: 100%;
+              }
+            }
+          }
+        }
+      }
+    }
+    .program_section {
+      .number1 {
+        .about_us {
+          .num {
+            top: 2px;
+            left: 163px;
+            span {
+              font-size: 100px;
+            }
+          }
+        }
+      }
+      .number1 {
+        .about_us {
+          .num {
+            top: -47px;
+            left: 294px;
+            span {
+              font-size: 150px;
+            }
+          }
+        }
+      }
+      .number2 {
+        .about_us {
+          .num {
+            top: 2px;
+            right: 54px;
+            span {
+              font-size: 100px;
+            }
+          }
+        }
+      }
+      .number3 {
+        .about_us {
+          .num {
+            top: 2px;
+            left: 163px;
+            span {
+              font-size: 100px;
+            }
+          }
+        }
+      }
+      .number4 {
+        .about_us {
+          .num {
+            top: 2px;
+            right: 24px;
+            span {
+              font-size: 100px;
+            }
+          }
+        }
+      }
+      .number5 {
+        .about_us {
+          .num {
+            top: 2px;
+            left: 260px;
+            span {
+              font-size: 100px;
+            }
+          }
+        }
+      }
+    }
+    .news {
+      .image {
+        .card {
+          height: 310px;
+        }
+      }
+    }
+    .footer {
+      &_section {
+        padding: 60px 30px 60px;
+      }
+    }
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #birla {
+    .nav_section {
+      .navbar {
+        .navbar-collapse {
+          .navbar-nav {
+            gap: 10px;
+            li {
+              a {
+                padding: 5px 20px;
+                font-size: 15px;
+              }
+            }
+          }
+        }
+      }
+      .navbar-toggler {
+        margin-left: auto;
+        font-size: 30px;
+        color: #ad2627;
+      }
+    }
+    .nav-menu {
+      a {
+        color: #000;
+      }
+    }
+    .navbar-mobile {
+      background-color: rgb(173 38 39 / 88%);
+    }
+    #header {
+      .logodiv {
+        .logo {
+          h6 {
+            line-height: 30px;
+            display: inline-block;
+            vertical-align: middle;
+            font-weight: 500;
+            color: #303030;
+            margin-top: 25px;
+            font-size: 16px;
+          }
+        }
+      }
+      .right_side {
+        .call {
+          h6 {
+            font-size: 12px;
+          }
+        }
+        a.getstarted {
+          padding: 16px 20px;
+        }
+      }
+    }
+    .banner {
+      #custCarousel {
+        .carousel-indicators {
+          margin-right: 64px;
+          li {
+            img {
+              width: 120px;
+              height: 70px;
+            }
+          }
+        }
+      }
+    }
+    .about_us {
+      padding: 100px 0 0;
+      .left {
+        h2 {
+          font-size: 28px;
+          line-height: 40px;
+        }
+      }
+      .right {
+        img {
+          width: 100%;
+        }
+        .icon {
+          bottom: 260px;
+        }
+      }
+    }
+    .why_choose {
+      padding: 80px 0 0;
+      h2 {
+        font-size: 30px;
+        line-height: 33px;
+        letter-spacing: 0;
+      }
+      h6 {
+        font-size: 15px;
+      }
+      .img_list {
+        .right_list {
+          padding: 30px 30px;
+          ul {
+            li {
+              font-weight: 500;
+              font-size: 16px;
+              line-height: 17px;
+            }
+            .hr_line {
+              margin: 10px 0;
+            }
+          }
+        }
+      }
+    }
+    .news {
+      .image {
+        .card {
+          height: 310px;
+        }
+      }
+    }
+    .education {
+      padding: 80px 0 0;
+      .programs h2 {
+        font-size: 30px;
+        line-height: 33px;
+        letter-spacing: 0;
+      }
+      .image {
+        .card {
+          .bg-color {
+            h2 {
+              font-size: 18px;
+              line-height: 30px;
+            }
+            h3 {
+              font-size: 21px;
+            }
+          }
+          img {
+            height: 35vh;
+          }
+        }
+      }
+    }
+    .vision {
+      padding: 100px 0 0;
+      .vision_text {
+        #main {
+          h2 {
+            font-size: 37px;
+          }
+          #faq {
+            .card {
+              .card-header {
+                .btn-header-link {
+                  font-size: 20px;
+                  padding: 10px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    .gallery {
+      padding: 100px 0 0;
+      h2 {
+        font-size: 37px;
+      }
+    }
+    .contact_form {
+      .form_img {
+        img {
+          width: 100%;
+        }
+      }
+      .main-form {
+        left: -116px;
+        top: 26px;
+        .form {
+          .card {
+            .card-body {
+              width: 100%;
+              .form-control {
+                width: 100%;
+              }
+            }
+          }
+          form {
+            .form-group {
+              .inputBox {
+                input {
+                  height: 40px;
+                  width: 100%;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    .program_section {
+      .number1 {
+        .about_us {
+          .num {
+            top: 2px;
+            left: 163px;
+            span {
+              font-size: 100px;
+            }
+          }
+        }
+      }
+      .number1 {
+        .about_us {
+          .num {
+            top: 2px;
+            left: 163px;
+            span {
+              font-size: 100px;
+            }
+          }
+        }
+      }
+      .number2 {
+        .about_us {
+          .num {
+            top: 2px;
+            right: 54px;
+            span {
+              font-size: 100px;
+            }
+          }
+        }
+      }
+      .number3 {
+        .about_us {
+          .num {
+            top: 2px;
+            left: 163px;
+            span {
+              font-size: 100px;
+            }
+          }
+        }
+      }
+      .number4 {
+        .about_us {
+          .num {
+            top: 2px;
+            right: 24px;
+            span {
+              font-size: 100px;
+            }
+          }
+        }
+      }
+      .number5 {
+        .about_us {
+          .num {
+            top: 2px;
+            left: 260px;
+            span {
+              font-size: 100px;
+            }
+          }
+        }
+      }
+    }
+    .learning_env {
+      .bomps_left {
+        padding: 15px;
+        h6 {
+          font-size: 15px;
+        }
+      }
+    }
+    .contact {
+      p {
+        font-size: 10px;
+      }
+      i {
+        margin-right: 10px;
+        font-size: 15px;
+      }
+    }
+    .footer {
+      margin-top: 100px;
+      &_section {
+        padding: 60px 30px 60px;
+      }
+    }
+  }
+}
+@media screen and (max-width: 767px) {
+  #birla {
+    .nav_div {
+      .right_side {
+        display: none;
+      }
+    }
+    #header {
+      .nav-menu {
+        background-color: transparent;
+        nav {
+          background-color: #f05c2b;
+        }
+      }
+      .right_side {
+        display: none;
+      }
+      .logodiv {
+        .logo {
+          h6 {
+            font-size: 20px;
+          }
+        }
+      }
+    }
+    .nav_section {
+      .navbar {
+        .navbar-collapse {
+          .navbar-nav {
+            gap: 10px;
+            gap: 10px;
+            padding: 0 25px;
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 20px;
+            font-family: "Work Sans", sans-serif;
+          }
+        }
+        .navbar-toggler {
+          font-size: 30px;
+          margin-left: auto;
+          color: #ad2627;
+        }
+      }
+    }
+    .nav-menu {
+      a {
+        color: #000;
+      }
+    }
+
+    .navbar-mobile {
+      background-color: rgb(173 38 39 / 88%);
+    }
+    .banner {
+      .banner_text {
+        .head {
+          padding: 50px 13px;
+          h1 {
+            font-size: 35px;
+            line-height: 55px;
+          }
+          h3 {
+            font-size: 24px;
+            letter-spacing: 0;
+          }
+        }
+      }
+      #custCarousel {
+        .carousel-indicators {
+          margin-right: 0;
+          li {
+            img {
+              width: 100px;
+              height: 70px;
+            }
+          }
+        }
+      }
+    }
+
+    .about_us {
+      padding: 90px 0 0;
+      .left {
+        h2 {
+          font-size: 27px;
+          line-height: 40px;
+        }
+        h6 {
+          margin-top: 20px;
+        }
+      }
+      .right {
+        img {
+          margin-top: 50px;
+          width: 100%;
+        }
+        .icon {
+          bottom: 0;
+        }
+      }
+    }
+    .why_choose {
+      padding: 80px 0 0;
+      .bomps_left {
+        h6 {
+          font-size: 17px;
+        }
+      }
+      h2 {
+        font-size: 27px;
+        line-height: 40px;
+        letter-spacing: 0;
+      }
+      .img_list {
+        .right_list {
+          padding: 30px 15px;
+          ul {
+            li {
+              font-size: 16px;
+            }
+          }
+        }
+      }
+    }
+    .news {
+      .image {
+        .card {
+          margin-top: 30px;
+          height: 500px;
+        }
+        .news-card {
+          height: 390px;
+        }
+      }
+    }
+    .about_vision {
+      .vision_text {
+        #main {
+          #faq {
+            .card {
+              .card-header {
+                .btn-header-link {
+                  font-size: 25px;
+                  padding: 10px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    .people {
+      .team {
+        margin-top: 30px;
+      }
+    }
+    .education {
+      padding: 80px 0 0;
+      .programs {
+        display: block;
+        h2 {
+          font-size: 27px;
+          line-height: 40px;
+          letter-spacing: 0;
+        }
+      }
+      .image {
+        .card {
+          margin-top: 30px;
+          img {
+            height: 80vh;
+          }
+          .bg-color {
+            h3 {
+              font-size: 19px;
+            }
+          }
+        }
+      }
+    }
+    .vision {
+      padding: 100px 0 0;
+      .vision_text {
+        #main {
+          h2 {
+            font-size: 28px;
+          }
+          #faq {
+            .card {
+              .card-header {
+                .btn-header-link {
+                  font-size: 15px;
+                }
+              }
+            }
+          }
+        }
+      }
+      img {
+        position: static;
+      }
+    }
+    .gallery {
+      padding: 80px 0 0;
+      h2 {
+        font-size: 28px;
+      }
+    }
+    .learning_env {
+      .right-img {
+        img {
+          width: 100%;
+          height: 100vh;
+          object-fit: cover;
+        }
+      }
+      .bomps_left {
+        padding: 25px 0 25px 10px;
+      }
+    }
+    .contact_form {
+      padding: 100px 0 0;
+      .form_img {
+        img {
+          width: 100%;
+        }
+      }
+      .main-form {
+        position: static;
+        .form {
+          .card {
+            margin-top: 40px;
+            .card-body {
+              width: 100%;
+              .form-control {
+                width: 100%;
+              }
+            }
+          }
+          form {
+            .form-group {
+              button {
+                margin-left: 0;
+              }
+              .inputBox {
+                input {
+                  width: 100%;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    .about_vision {
+      padding: 80px 0 0;
+      .vision_text {
+        margin-top: 60px;
+      }
+    }
+    .contact {
+      p {
+        font-size: 15px;
+      }
+      .address,
+      .mail {
+        margin-top: 20px;
+      }
+      h2 {
+        font-size: 28px;
+      }
+    }
+    .footer {
+      margin-top: 80px;
+      .legacy {
+        padding: 70px 15px 60px;
+        h2 {
+          font-size: 28px;
+        }
+        form {
+          label,
+          button {
+            width: 100%;
+          }
+        }
+      }
+      .footer_section {
+        padding: 70px 15px 60px;
+        iframe {
+          margin-top: 20px;
+        }
+      }
+    }
+    .facilities {
+      padding: 80px 0 0;
+      h2 {
+        font-size: 28px;
+      }
+    }
+    .rs,
+    .news,
+    .testimonial {
+      padding: 80px 0 0;
+      h2 {
+        font-size: 28px;
+      }
+    }
+    .gallery {
+      .photos {
+        h4 {
+          font-size: 28px;
+        }
+      }
+    }
+    .testimonial {
+      padding: 80px 0 0;
+      .card {
+        margin-top: 20px;
+      }
+    }
+
+    // program page css
+    .program_section {
+      .number1,
+      .number2,
+      .number3,
+      .number4,
+      .number5 {
+        .about_us {
+          .num {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 1199px) {
+  .testimonials {
+    .swiper-slide-active {
+      opacity: 1;
+    }
+  }
+
+  .testimonials {
+    .swiper-pagination {
+      margin-top: 0;
+    }
+  }
+}
+
+@media (min-width: 1200px) {
+  .testimonials {
+    .swiper-slide-next {
+      opacity: 1;
+    }
+  }
+}

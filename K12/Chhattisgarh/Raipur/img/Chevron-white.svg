@@ -1,0 +1,10 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Chevron right" clip-path="url(#clip0_625_40)">
+<path id="Vector" d="M15.6843 6.35535C15.2652 5.88155 14.5881 5.88155 14.169 6.35535L9.99932 11.0691L5.82962 6.35535C5.4105 5.88155 4.73346 5.88155 4.31434 6.35535C3.89522 6.82916 3.89522 7.59453 4.31434 8.06834L9.24706 13.6446C9.66618 14.1185 10.3432 14.1185 10.7623 13.6446L15.6951 8.06834C16.1034 7.60668 16.1034 6.82916 15.6843 6.35535Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_625_40">
+<rect width="20" height="20" fill="white" transform="translate(20) rotate(90)"/>
+</clipPath>
+</defs>
+</svg>
