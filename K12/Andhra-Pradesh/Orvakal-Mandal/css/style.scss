@@ -42,6 +42,9 @@ body {
 
 #birla {
   #header {
+    .top_head {
+      padding: 20px 0;
+    }
     .logodiv {
       display: flex;
       align-items: center;
@@ -86,7 +89,7 @@ body {
   }
   .navbar {
     ul {
-      gap: 50px;
+      justify-content: space-between;
     }
   }
   .nav_div {

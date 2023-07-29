@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Birla Open Minds Haldwani</title>
+  <title>Birla Open Minds Shimla Road, Dehradun</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -100,7 +100,7 @@
                   wide- ranging interests in the sphere of high quality
                   education with dedication to excellence.
                 </p>
-                <button class="read">Read More</button>
+                <a href="about.php"> <button class="read">Read More</button></a>
               </div>
             </div>
             <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
@@ -148,8 +148,11 @@
                 <hr class="hr_line" />
                 <li>CCTV Surveillance system</li>
                 <hr class="hr_line" />
-                <li>3D Virtual lab</li>
               </ul>
+              <a href="what-we-offer.php" class="mt-3 text-center"><button class="read"
+                  style="background:transparent; border:2px solid white; margin-top:10px">Learn More <i
+                    class="fa fa-angle-down"></i>
+                </button></a>
             </div>
           </div>
         </div>

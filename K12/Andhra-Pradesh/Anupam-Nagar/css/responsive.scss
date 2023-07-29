@@ -73,7 +73,7 @@
         }
         .left_img {
           img {
-            height: 133vh;
+            height: 391px;
           }
         }
       }
@@ -214,7 +214,7 @@
       .navbar {
         .navbar-collapse {
           .navbar-nav {
-            gap: 10px;
+            // gap: 10px;
             li {
               a {
                 padding: 5px 20px;
@@ -242,13 +242,7 @@
       .logodiv {
         .logo {
           h6 {
-            line-height: 30px;
-            display: inline-block;
-            vertical-align: middle;
-            font-weight: 500;
-            color: #303030;
-            margin-top: 25px;
-            font-size: 16px;
+            line-height: 25px;
           }
         }
       }
@@ -304,6 +298,11 @@
         font-size: 15px;
       }
       .img_list {
+        .left_img {
+          img {
+            height: auto;
+          }
+        }
         .right_list {
           padding: 30px 30px;
           ul {
@@ -336,6 +335,7 @@
       .image {
         .card {
           .bg-color {
+            height: auto;
             h2 {
               font-size: 18px;
               line-height: 30px;
@@ -345,7 +345,7 @@
             }
           }
           img {
-            height: 35vh;
+            height: auto;
           }
         }
       }
@@ -593,6 +593,7 @@
         }
       }
       .right {
+        margin-top: 30px;
         img {
           margin-top: 50px;
           width: 100%;
@@ -629,10 +630,10 @@
       .image {
         .card {
           margin-top: 30px;
-          height: 500px;
+          height: auto;
         }
         .news-card {
-          height: 390px;
+          height: auto;
         }
       }
     }

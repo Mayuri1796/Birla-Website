@@ -46,10 +46,16 @@ body .mobile-nav-toggle {
   # Testimonials
   --------------------------------------------------------------*/
 }
+#birla #header .top_head {
+  padding: 20px 0;
+}
 #birla #header .logodiv {
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+#birla #header .logodiv .logo {
+  align-items: center;
 }
 #birla #header .logodiv .logo img {
   display: inline-block;
@@ -86,7 +92,7 @@ body .mobile-nav-toggle {
   background-color: #f05c2b;
 }
 #birla .navbar ul {
-  gap: 50px;
+  justify-content: space-between;
 }
 #birla .nav_div .logodiv {
   display: flex;
@@ -236,7 +242,7 @@ body .mobile-nav-toggle {
   -o-object-fit: cover;
      object-fit: cover;
   width: 100%;
-  height: 500px;
+  height: 600px;
 }
 #birla .why_choose .img_list .right_list {
   padding: 30px 50px;
@@ -273,6 +279,7 @@ body .mobile-nav-toggle {
 }
 #birla .education .image .card .bg-color {
   background-color: #821213;
+  width: 100%;
 }
 #birla .education .image .card .bg-color h3 {
   color: #fff;
@@ -284,7 +291,6 @@ body .mobile-nav-toggle {
 #birla .education .image .card img {
   -o-object-fit: cover;
      object-fit: cover;
-  height: 400px;
 }
 #birla .news {
   padding: 120px 0 0;

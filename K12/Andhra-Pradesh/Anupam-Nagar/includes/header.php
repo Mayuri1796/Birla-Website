@@ -1,8 +1,8 @@
 <!-- <header id="header" class="header fixed-top">
-  <div class="container-fluid container-xl">
+  <div class="container-fluid top_head container-xl">
     <div class="logodiv d-flex justify-content-between">
       <div class="logo">
-        <a href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/index.php" class="navbar-brand logo-name">
+        <a href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/index.php" class="navbar-brand logo-name">
           <img src="./img/birla-logo.png" alt="Logo" />
         </a>
         <h6>Anupam Nagar<br> Tirupati</h6>
@@ -23,21 +23,21 @@
     <div class="container-fluid container-xl p-0 align-items-center justify-content-center">
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/about.php">About Us</a>
+          <li><a class="nav-link scrollto active" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/what-we-offer.php">What We
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/what-we-offer.php">What We
               Offer?</a></li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/programme.php">Programmes</a>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/programme.php">Programmes</a>
           </li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/news-events.php">News &
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/news-events.php">News &
               Events</a></li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/blogs.php"></a>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/blogs.php"></a>
           </li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/gallery-photos.php">Gallery</a>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/gallery-photos.php">Gallery</a>
           </li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/testimonial.php">Testimonial</a>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/testimonial.php">Testimonial</a>
           </li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/contact.php">Contact</a></li>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/contact.php">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
@@ -49,10 +49,10 @@
 </div> -->
 
 <header id="header" class="header fixed-top">
-  <div class="container-fluid container-xl">
+  <div class="container-fluid top_head container-xl">
     <div class="logodiv d-flex justify-content-between">
       <div class="logo d-flex">
-        <a href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/index.php" class="navbar-brand logo-name">
+        <a href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/index.php" class="navbar-brand logo-name">
           <img src="./img/birla-logo.png" alt="Logo" />
         </a>
         <h6>Anupam-Nagar <br> Tirupati</h6>
@@ -72,18 +72,18 @@
       </div>
       <nav id="navbar" class="navbar md-block">
         <ul>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/about.php">About Us</a></li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/about.php">What We
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">About Us</a></li>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">What We
               Offer?</a></li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/about.php">Programmes</a></li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/about.php">News & Events</a>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">Programmes</a></li>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">News & Events</a>
           </li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/about.php">Blogs</a></li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/about.php">Gallery</a>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">Blogs</a></li>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">Gallery</a>
           </li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/about.php">Testimonial</a></li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/about.php">Contact</a></li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/admissions.php">Admission
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">Testimonial</a></li>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">Contact</a></li>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/admissions.php">Admission
               Enquiry</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -94,21 +94,21 @@
     <div class="container-fluid container-xl p-0 align-items-center justify-content-center">
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/about.php">About Us</a>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/what-we-offer.php">What We
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/what-we-offer.php">What We
               Offer?</a></li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/programme.php">Programmes</a>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/programme.php">Programmes</a>
           </li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/news-events.php">News &
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/news-events.php">News &
               Events</a></li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/blogs.php">Blogs</a>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/blogs.php">Blogs</a>
           </li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/gallery-photos.php">Gallery</a>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/gallery-photos.php">Gallery</a>
           </li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/testimonial.php">Testimonial</a>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/testimonial.php">Testimonial</a>
           </li>
-          <li><a class="nav-link scrollto" href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/contact.php">Contact</a></li>
+          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/contact.php">Contact</a></li>
 
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>

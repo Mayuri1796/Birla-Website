@@ -100,7 +100,7 @@
                   wide- ranging interests in the sphere of high quality
                   education with dedication to excellence.
                 </p>
-                <button class="read">Read More</button>
+                <a href="about.php"> <button class="read">Read More</button></a>
               </div>
             </div>
             <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
@@ -125,10 +125,10 @@
         <div class="row">
           <div class="col-md-6 p-0">
             <div class="left_img">
-              <img src="./img/bomis-infra.png" width="100%" alt="" />
+              <img src="./img/bomis-infra.png" class="img-fluid" width="100%" alt="" />
             </div>
           </div>
-          <div class="col-md-6 p-0" style="background-color: #ff8e0a">
+          <div class="col-md-6 p-0" style="background-color: #F05A2A;">
             <div class="right_list">
               <ul>
                 <li>A centre of academic excellence</li>
@@ -150,6 +150,10 @@
                 <hr class="hr_line" />
                 <li>3D Virtual lab</li>
               </ul>
+              <a href="what-we-offer.php" class="mt-3 text-center"><button class="read"
+                  style="background:transparent; border:2px solid white; margin-top:10px">Learn More <i
+                    class="fa fa-angle-down"></i>
+                </button></a>
             </div>
           </div>
         </div>
@@ -167,7 +171,7 @@
               <div class="card">
                 <img src="./img/educational-program-1.png" alt="pre-school-program" />
                 <div class="card-body bg-color">
-                  <h3>Pre - <br>
+                  <h3>Pre -
                     School</h3>
                 </div>
               </div>
@@ -178,7 +182,7 @@
               <div class="card">
                 <img src="./img/educational-program-2.png" alt="Primary-school-program" />
                 <div class="card-body bg-color">
-                  <h3>Primary <br>
+                  <h3>Primary
                     School</h3>
                 </div>
               </div>
@@ -191,7 +195,7 @@
               <div class="card">
                 <img src="./img/educational-program-3.png" alt="Middle school programs" />
                 <div class="card-body bg-color">
-                  <h3>Middle <br>
+                  <h3>Middle
                     School</h3>
                 </div>
               </div>
@@ -202,7 +206,7 @@
               <div class="card">
                 <img src="./img/educational-program-4.png" alt="High school programs" />
                 <div class="card-body bg-color">
-                  <h3>High <br>
+                  <h3>High
                     School</h3>
                 </div>
               </div>
@@ -223,9 +227,9 @@
             <div class="image ">
               <div class="card">
                 <img src="./img/news1.png" alt="news1 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>News</h6>
                   <p>Bomis Walkeshwar offers NIOS curriculum
@@ -238,9 +242,9 @@
             <div class="image">
               <div class="card">
                 <img src="./img/news2.png" alt="news 2 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>News</h6>
                   <p>MINDSPARK second edition newsletter</p>
@@ -252,9 +256,9 @@
             <div class="image">
               <div class="card">
                 <img src="./img/news3.png" alt="news 3 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>News</h6>
                   <p>Expert approved ways of being efficient whole

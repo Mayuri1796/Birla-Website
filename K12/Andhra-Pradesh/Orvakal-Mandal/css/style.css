@@ -43,6 +43,9 @@ body .container {
   # Testimonials
   --------------------------------------------------------------*/
 }
+#birla #header .top_head {
+  padding: 20px 0;
+}
 #birla #header .logodiv {
   display: flex;
   align-items: center;
@@ -80,7 +83,7 @@ body .container {
   background-color: #f05c2b;
 }
 #birla .navbar ul {
-  gap: 50px;
+  justify-content: space-between;
 }
 #birla .nav_div .logodiv {
   display: flex;

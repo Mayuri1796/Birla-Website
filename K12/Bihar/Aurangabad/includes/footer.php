@@ -23,14 +23,14 @@
       <div class="row">
         <div class="col-md-3">
           <ul>
-            <li><a href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/about.php"> About Us </a></li>
-            <li><a href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/what-we-offer.php"> What We Offer? </a></li>
-            <li><a href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/programme.php"> Programmes</a></li>
-            <li><a href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/news-events.php"> News & Events</a></li>
-            <li><a href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/blogs.php"> Blogs</a> </li>
-            <li><a href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/gallery-photos.php"> Gallery</a></li>
-            <li><a href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/testimonial.php"> Testimonial</a></li>
-            <li><a href="/Birla/K12/Andhra-Pradesh/Anupam-Nagar/contact.php"> Contact</a></li>
+            <li><a href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php"> About Us </a></li>
+            <li><a href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/what-we-offer.php"> What We Offer? </a></li>
+            <li><a href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/programme.php"> Programmes</a></li>
+            <li><a href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/news-events.php"> News & Events</a></li>
+            <li><a href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/blogs.php"> Blogs</a> </li>
+            <li><a href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/gallery-photos.php"> Gallery</a></li>
+            <li><a href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/testimonial.php"> Testimonial</a></li>
+            <li><a href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/contact.php"> Contact</a></li>
           </ul>
         </div>
         <div class="col-md-4">
