@@ -1,15 +1,15 @@
-<link rel="stylesheet" type="text/css" href="https://cdn.nuvodiamonds.com/css/style.css" />
-<link rel="stylesheet" type="text/css" href="./css/style.css" />
-<link rel="stylesheet" type="text/css" href="./css/responsive.css" />
-<link rel="stylesheet" type="text/css" href="https://cdn.nuvodiamonds.com/css/responsive.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnk12.nuvodiamonds.com/css/style.css" />
+<link rel="stylesheet" type="text/css" href="/css/style.css" />
+<link rel="stylesheet" type="text/css" href="/css/responsive.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnk12.nuvodiamonds.com/css/responsive.css" />
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
 <link rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
     integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-<link href="https://birla.nuvodiamonds.com/assets/img/logo/favicon.png" rel="icon">
-<link href="https://birla.nuvodiamonds.com/assets/img/logo/favicon.png" rel="apple-touch-icon">
+<link href="./img/fevicon.png" rel="icon">
+<link href="./img/fevicon.png" rel="apple-touch-icon">
 
 <!-- Google Fonts -->
 <link
@@ -32,4 +32,4 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/10.0.4/swiper-bundle.css"
     integrity="sha512-3OuH/9eh0Sx9s/c23ZFG5SJb3GvBluF9cdGgQXhZyMyId4GP87W9QBgkHmocx+8kZaCZmXQUUuLOD4Q4f5PaWQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
-<link href="https://cdn.nuvodiamonds.com/assets/css/style.css" rel="stylesheet">
+<link href="https://cdnk12.nuvodiamonds.com/assets/css/style.css" rel="stylesheet">
