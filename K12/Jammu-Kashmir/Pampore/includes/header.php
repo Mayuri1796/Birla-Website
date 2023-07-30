@@ -26,8 +26,7 @@
           <li><a class="nav-link scrollto active" href="/birla/k12/Jammu-Kashmir/Pampore/about.php">About
               Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Jammu-Kashmir/Pampore/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Jammu-Kashmir/Pampore/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Jammu-Kashmir/Pampore/news-events.php">News &
@@ -55,8 +54,7 @@
           <li><a class="nav-link scrollto active" href="/birla/k12/Jammu-Kashmir/Pampore/about.php">About
               Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Jammu-Kashmir/Pampore/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Jammu-Kashmir/Pampore/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Jammu-Kashmir/Pampore/news-events.php">News &

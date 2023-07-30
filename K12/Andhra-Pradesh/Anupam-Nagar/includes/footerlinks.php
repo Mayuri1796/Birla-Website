@@ -18,7 +18,7 @@
     }
 
     // Helper function to add event listeners
-    function addListener(element, event, handler, useCapture = false) {
+    function addListener(element, event, handler, useCapture = false) {  
         element.addEventListener(event, handler, useCapture);
     }
 

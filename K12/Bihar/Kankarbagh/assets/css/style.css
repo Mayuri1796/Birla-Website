@@ -187,6 +187,7 @@ section {
 .header .logo img {
   max-height: 140px;
   margin-right: 6px;
+  object-fit: cover;
 }
 
 .header .logo span {

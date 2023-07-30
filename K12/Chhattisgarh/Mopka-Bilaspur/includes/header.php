@@ -26,8 +26,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Chhattisgarh/Mopka-Bilaspur/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Chhattisgarh/Mopka-Bilaspur/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Chhattisgarh/Mopka-Bilaspur/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Chhattisgarh/Mopka-Bilaspur/news-events.php">News &
@@ -53,8 +52,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Chhattisgarh/Mopka-Bilaspur/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Chhattisgarh/Mopka-Bilaspur/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Chhattisgarh/Mopka-Bilaspur/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Chhattisgarh/Mopka-Bilaspur/news-events.php">News &

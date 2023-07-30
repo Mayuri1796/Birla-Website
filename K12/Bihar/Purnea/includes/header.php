@@ -25,8 +25,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Bihar/Purnea/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Purnea/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Purnea/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Purnea/news-events.php">News &
@@ -52,8 +51,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Bihar/Purnea/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Purnea/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Purnea/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Purnea/news-events.php">News &

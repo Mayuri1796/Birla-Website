@@ -22,8 +22,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Bihar/Naubatpur/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Naubatpur/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Naubatpur/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Naubatpur/news-events.php">News &
@@ -49,8 +48,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Bihar/Naubatpur/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Naubatpur/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Naubatpur/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Naubatpur/news-events.php">News &

@@ -25,8 +25,8 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Bihar/Basudeopur-Munger/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Basudeopur-Munger/what-we-offer.php">What We
-              Offer?</a></li>
+          <!-- <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Basudeopur-Munger/what-we-offer.php">What We
+              Offer?</a></li> -->
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Basudeopur-Munger/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Basudeopur-Munger/news-events.php">News &
@@ -52,8 +52,8 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Bihar/Basudeopur-Munger/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Basudeopur-Munger/what-we-offer.php">What We
-              Offer?</a></li>
+          <!-- <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Basudeopur-Munger/what-we-offer.php">What We
+              Offer?</a></li> -->
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Basudeopur-Munger/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Basudeopur-Munger/news-events.php">News &

@@ -22,8 +22,6 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Telangana/LB-Nagar/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Telangana/LB-Nagar/what-we-offer.php">What We
-              Offer?</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Telangana/LB-Nagar/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Telangana/LB-Nagar/news-events.php">News &
@@ -49,8 +47,6 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Telangana/LB-Nagar/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Telangana/LB-Nagar/what-we-offer.php">What We
-              Offer?</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Telangana/LB-Nagar/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Telangana/LB-Nagar/news-events.php">News &

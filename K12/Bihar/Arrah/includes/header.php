@@ -25,8 +25,8 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Bihar/Arrah/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Arrah/what-we-offer.php">What We
-              Offer?</a></li>
+          <!-- <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Arrah/what-we-offer.php">What We
+              Offer?</a></li> -->
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Arrah/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Arrah/news-events.php">News &
@@ -52,8 +52,8 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Bihar/Arrah/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Arrah/what-we-offer.php">What We
-              Offer?</a></li>
+          <!-- <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Arrah/what-we-offer.php">What We
+              Offer?</a></li> -->
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Arrah/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Arrah/news-events.php">News &

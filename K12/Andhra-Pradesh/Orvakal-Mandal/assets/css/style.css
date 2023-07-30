@@ -187,6 +187,7 @@ section {
 .header .logo img {
   max-height: 140px;
   margin-right: 6px;
+  object-fit: cover;
 }
 
 .header .logo span {
@@ -2468,7 +2469,7 @@ a.getstarted {
 }
 
 .h-200p {
-  height: 137px;
+  height: 234px;
 }
 
 .p-20 {
@@ -2620,5 +2621,6 @@ form select {
   line-height: 20px !important;
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1440px) {
+.top_head {
+  padding: 0;
 }

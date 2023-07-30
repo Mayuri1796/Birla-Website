@@ -23,8 +23,7 @@
       <nav id="navbar" class="navbar md-block">
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Maharashtra/Walkeshwar/about.php">About Us</a></li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Walkeshwar/what-we-offer.php">What We Offer?</a>
-          </li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Walkeshwar/programme.php">Programmes</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Walkeshwar/news-events.php">News & Events</a>
           </li>
@@ -46,8 +45,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Maharashtra/Walkeshwar/about.php">About Us</a></li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Walkeshwar/what-we-offer.php">What We Offer?</a>
-          </li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Walkeshwar/programme.php">Programmes</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Walkeshwar/news-events.php">News & Events</a>
           </li>

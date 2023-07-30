@@ -23,8 +23,8 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Bihar/Begusarai/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Begusarai/what-we-offer.php">What We
-              Offer?</a></li>
+          <!-- <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Begusarai/what-we-offer.php">What We
+              Offer?</a></li> -->
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Begusarai/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Begusarai/news-events.php">News &
@@ -50,8 +50,8 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Bihar/Begusarai/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Begusarai/what-we-offer.php">What We
-              Offer?</a></li>
+          <!-- <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Begusarai/what-we-offer.php">What We
+              Offer?</a></li> -->
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Begusarai/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Begusarai/news-events.php">News &

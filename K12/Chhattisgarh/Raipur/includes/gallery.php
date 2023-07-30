@@ -8,50 +8,29 @@
           <div id="news-slider2" class="owl-carousel">
             <div class="post-slide2">
               <div class="post-img">
-                <img class="pic-1" src="./img/gallery/Diwali/1.jpg">
+                <img class="pic-1" src="./img/4.png">
               </div>
             </div>
 
             <div class="post-slide2">
               <div class="post-img">
-                <img class="pic-1" src="./img/gallery/Diwali/2.jpg">
+                <img class="pic-1" src="./img/5.png">
               </div>
             </div>
             <div class="post-slide2">
               <div class="post-img">
-                <img class="pic-1" src="./img/gallery/Diwali/3.jpg">
+                <img class="pic-1" src="./img/6.png">
               </div>
             </div>
             <div class="post-slide2">
               <div class="post-img">
-                <img class="pic-1" src="./img/gallery/Diwali/4.jpg">
-              </div>
-            </div>
-
-            <div class="post-slide2">
-              <div class="post-img">
-                <img class="pic-1" src="./img/gallery/Scholar/5.jpg">
-              </div>
-            </div>
-            <div class="post-slide2">
-              <div class="post-img">
-                <img class="pic-1" src="./img/gallery/Scholar/1.jpg">
-              </div>
-            </div>
-            <div class="post-slide2">
-              <div class="post-img">
-                <img class="pic-1" src="./img/gallery/Scholar/2.jpg">
+                <img class="pic-1" src="./img/4.png">
               </div>
             </div>
 
             <div class="post-slide2">
               <div class="post-img">
-                <img class="pic-1" src="./img/gallery/Scholar/5.jpg">
-              </div>
-            </div>
-            <div class="post-slide2">
-              <div class="post-img">
-                <img class="pic-1" src="./img/gallery/Scholar/4.jpg">
+                <img class="pic-1" src="./img/5.png">
               </div>
             </div>
           </div>
@@ -63,9 +42,9 @@
 <?php include('includes/footerlinks.php'); ?>
 <script>
   // slider - code
-  $(document).ready(function() {
+  $(document).ready(function () {
 
-    $(function() {
+    $(function () {
       var owl = $("#news-slider2");
       owl.owlCarousel({
         items: 3,

@@ -23,8 +23,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Bihar/Kankarbagh/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Kankarbagh/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Kankarbagh/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Kankarbagh/news-events.php">News &
@@ -50,8 +49,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Bihar/Kankarbagh/about.php">About Us</a>
           </li>
-          <li><a class=" nav-link scrollto" href="/birla/k12/Bihar/Kankarbagh/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Kankarbagh/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Kankarbagh/news-events.php">News &

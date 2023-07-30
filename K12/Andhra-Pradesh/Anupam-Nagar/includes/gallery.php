@@ -8,37 +8,52 @@
           <div id="news-slider2" class="owl-carousel">
             <div class="post-slide2">
               <div class="post-img">
-                <img class="pic-1" src="./img/1.png">
+                <img class="pic-1" src="./img/gallery/investiture_ceremony/1.jpg">
               </div>
             </div>
 
             <div class="post-slide2">
               <div class="post-img">
-                <img class="pic-1" src="./img/2.png">
+                <img class="pic-1" src="./img/gallery/investiture_ceremony/2.jpg">
               </div>
             </div>
             <div class="post-slide2">
               <div class="post-img">
-                <img class="pic-1" src="./img/3.png">
+                <img class="pic-1" src="./img/gallery/investiture_ceremony/3.jpg">
               </div>
             </div>
             <div class="post-slide2">
               <div class="post-img">
-                <img class="pic-1" src="./img/4.png">
+                <img class="pic-1" src="./img/gallery/investiture_ceremony/4.jpg">
               </div>
             </div>
 
             <div class="post-slide2">
               <div class="post-img">
-                <img class="pic-1" src="./img/5.png">
+                <img class="pic-1" src="./img/gallery/investiture_ceremony/5.jpg">
               </div>
             </div>
             <div class="post-slide2">
               <div class="post-img">
-                <img class="pic-1" src="./img/6.png">
+                <img class="pic-1" src="./img/gallery/investiture_ceremony/6.jpg">
+              </div>
+            </div>
+            <div class="post-slide2">
+              <div class="post-img">
+                <img class="pic-1" src="./img/gallery/investiture_ceremony/7.jpg">
               </div>
             </div>
 
+            <div class="post-slide2">
+              <div class="post-img">
+                <img class="pic-1" src="./img/gallery/investiture_ceremony/8.jpg">
+              </div>
+            </div>
+            <div class="post-slide2">
+              <div class="post-img">
+                <img class="pic-1" src="./img/gallery/investiture_ceremony/9.jpg">
+              </div>
+            </div>
           </div>
         </div>
       </div>

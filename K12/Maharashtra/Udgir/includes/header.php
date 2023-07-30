@@ -23,7 +23,6 @@
       <nav id="navbar" class="navbar md-block">
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Maharashtra/Udgir/about.php">About Us</a></li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Udgir/what-we-offer.php">What We Offer?</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Udgir/programme.php">Programmes</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Udgir/news-events.php">News & Events</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Udgir/blogs.php">Blogs</a>
@@ -44,7 +43,6 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Maharashtra/Udgir/about.php">About Us</a></li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Udgir/what-we-offer.php">What We Offer?</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Udgir/programme.php">Programmes</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Udgir/news-events.php">News & Events</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Udgir/blogs.php">Blogs</a>

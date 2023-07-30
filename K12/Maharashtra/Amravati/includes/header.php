@@ -22,8 +22,7 @@
       <nav id="navbar" class="navbar md-block">
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Maharashtra/Amravati/about.php">About Us</a></li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Amravati/what-we-offer.php">What We Offer?</a>
-          </li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Amravati/programme.php">Programmes</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Amravati/news-events.php">News & Events</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Amravati/blogs.php">Blogs</a>
@@ -45,8 +44,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Maharashtra/Amravati/about.php">About Us</a></li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Amravati/what-we-offer.php">What We Offer?</a>
-          </li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Amravati/programme.php">Programmes</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Amravati/news-events.php">News & Events</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Amravati/blogs.php">Blogs</a>

@@ -24,7 +24,7 @@
       <nav id="navbar" class="navbar md-block">
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Maharashtra/Latur/about.php">About Us</a></li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Latur/what-we-offer.php">What We Offer?</a></li>
+          <!-- <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Latur/what-we-offer.php">What We Offer?</a></li> -->
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Latur/programme.php">Programmes</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Latur/news-events.php">News & Events</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Latur/blogs.php">Blogs</a>
@@ -45,7 +45,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Maharashtra/Latur/about.php">About Us</a></li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Latur/what-we-offer.php">What We Offer?</a></li>
+          <!-- <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Latur/what-we-offer.php">What We Offer?</a></li> -->
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Latur/programme.php">Programmes</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Latur/news-events.php">News & Events</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Maharashtra/Latur/blogs.php">Blogs</a>

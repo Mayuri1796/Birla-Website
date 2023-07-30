@@ -25,8 +25,8 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Andhra-Pradesh/Orvakal-Mandal/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Orvakal-Mandal/what-we-offer.php">What We
-              Offer?</a></li>
+          <!-- <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Orvakal-Mandal/what-we-offer.php">What We
+              Offer?</a></li> -->
           <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Orvakal-Mandal/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Orvakal-Mandal/news-events.php">News &
@@ -54,8 +54,8 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Andhra-Pradesh/Orvakal-Mandal/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Orvakal-Mandal/what-we-offer.php">What We
-              Offer?</a></li>
+          <!-- <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Orvakal-Mandal/what-we-offer.php">What We
+              Offer?</a></li> -->
           <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Orvakal-Mandal/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Orvakal-Mandal/news-events.php">News &

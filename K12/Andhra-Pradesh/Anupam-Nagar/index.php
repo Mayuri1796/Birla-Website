@@ -117,9 +117,9 @@
       </div>
     </section>
 
-    <section class="why_choose">
+    <!-- <section class="why_choose">
       <div class="container" data-aos="fade-up" data-aos="fade-up" data-aos-delay="300">
-        <h2>Why Choose BOMPS?</h2>
+        <h2>Why Choose BOMIS?</h2>
       </div>
       <div class="container-fluid img_list">
         <div class="row">
@@ -150,15 +150,12 @@
                 <hr class="hr_line" />
                 <li>3D Virtual lab</li>
               </ul>
-              <a href="what-we-offer.php" class="mt-3 text-center"><button class="read"
-                  style="background:transparent; border:2px solid white; margin-top:10px">Learn More <i
-                    class="fa fa-angle-down"></i>
-                </button></a>
+
             </div>
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <section class="education">
       <div class="container" data-aos="fade-up">
@@ -270,9 +267,9 @@
         </div>
       </div>
     </section>
-    <a href="news-events.php" class="mt-3 text-center" style="display: block;
-    margin: auto;"><button class="read">Show more <i class="fa fa-angle-down"></i>
-      </button></a>
+    <a href="news-events.php" class="pt-5 font-weight-bold text-center text-black d-block m-auto">Show more <i
+        class="fa fa-angle-down"></i>
+    </a>
     <!-- <div class="container gallery_collapse pb-5 ">
       <button class="read mt-3 text-center" data-toggle="collapse" href="#collapseExample" role="button"
         aria-expanded="false" aria-controls="collapseExample">Show More <i class="fa fa-angle-down"></i> </button>

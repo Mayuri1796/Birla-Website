@@ -23,8 +23,7 @@
           <li><a class="nav-link scrollto active" href="/birla/k12/Kathua-Kashmir/Kathua/about.php">About
               Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Kathua-Kashmir/Kathua/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Kathua-Kashmir/Kathua/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Kathua-Kashmir/Kathua/news-events.php">News &
@@ -52,8 +51,7 @@
           <li><a class="nav-link scrollto active" href="/birla/k12/Kathua-Kashmir/Kathua/about.php">About
               Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Kathua-Kashmir/Kathua/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Kathua-Kashmir/Kathua/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Kathua-Kashmir/Kathua/news-events.php">News &

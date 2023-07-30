@@ -46,7 +46,7 @@ body {
 #birla {
   #header {
     .top_head {
-      padding: 20px 0;
+      padding: 0;
     }
     .logodiv {
       display: flex;
@@ -64,11 +64,11 @@ body {
           display: inline-block;
           vertical-align: middle;
           font-style: normal;
-          font-weight: 600;
+          font-weight: 500;
           line-height: 27px;
           margin-left: 3px;
           padding-top: 14px;
-          font-family: "Work Sans", sans-serif;
+          font-family: "Poppins", sans-serif;
           line-height: 38px;
         }
       }
@@ -251,7 +251,7 @@ body {
     padding: 120px 0 0;
     h2 {
       color: #f05a2a;
-      font-size: 48px;
+      font-size: 47px;
       line-height: 40px;
       letter-spacing: -1.86px;
       font-weight: 500;
@@ -304,6 +304,7 @@ body {
         .bg-color {
           background-color: #821213;
           width: 100%;
+          padding: 5px 10px;
           h3 {
             color: #fff;
             font-size: 31px;
@@ -1294,4 +1295,16 @@ body {
       width: 100%;
     }
   }
+}
+
+a.getstarted {
+  background-color: #ad2627;
+  padding: 16px 34px;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: "Poppins", sans-serif;
 }

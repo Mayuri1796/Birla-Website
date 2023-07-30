@@ -25,8 +25,7 @@
           <li><a class="nav-link scrollto active" href="/birla/k12/Haryana/Bahadurgarh/about.php">About
               Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Haryana/Bahadurgarh/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Haryana/Bahadurgarh/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Haryana/Bahadurgarh/news-events.php">News &
@@ -54,8 +53,7 @@
           <li><a class="nav-link scrollto active" href="/birla/k12/Haryana/Bahadurgarh/about.php">About
               Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Haryana/Bahadurgarh/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Haryana/Bahadurgarh/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Haryana/Bahadurgarh/news-events.php">News &

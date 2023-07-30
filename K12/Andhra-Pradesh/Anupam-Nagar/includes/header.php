@@ -68,13 +68,12 @@
           </h6>
 
         </div>
-        <a class="getstarted scrollto enquire ml-auto" href="/birla/preschool/admissions.php">Admission Enquiry</a>
+        <a class="getstarted scrollto enquire ml-auto" href="admissions.php">Admission Enquiry</a>
       </div>
       <nav id="navbar" class="navbar md-block">
         <ul>
           <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">About Us</a></li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">Programmes</a></li>
           <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">News & Events</a>
           </li>
@@ -96,8 +95,8 @@
         <ul>
           <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/what-we-offer.php">What We
-              Offer?</a></li>
+          <!-- <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/what-we-offer.php">What We
+              Offer?</a></li> -->
           <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Andhra-Pradesh/Anupam-Nagar/news-events.php">News &

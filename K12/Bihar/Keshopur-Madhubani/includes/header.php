@@ -26,8 +26,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Bihar/Keshopur-Madhubani/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Keshopur-Madhubani/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Keshopur-Madhubani/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Keshopur-Madhubani/news-events.php">News &
@@ -53,8 +52,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="/birla/k12/Bihar/Keshopur-Madhubani/about.php">About Us</a>
           </li>
-          <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Keshopur-Madhubani/what-we-offer.php">What We
-              Offer?</a></li>
+
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Keshopur-Madhubani/programme.php">Programmes</a>
           </li>
           <li><a class="nav-link scrollto" href="/birla/k12/Bihar/Keshopur-Madhubani/news-events.php">News &

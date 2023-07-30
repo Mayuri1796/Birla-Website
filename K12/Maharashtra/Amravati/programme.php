@@ -63,7 +63,6 @@
         </div>
       </div>
     </section>
-
     <section class="rs">
       <div class="container" data-aos="fade-up" data-aos-delay="200">
         <div class="row">
@@ -74,21 +73,57 @@
         </div>
         <div class="row">
           <div class="col-md-5">
-            <h2>Cambridge Primary</h2>
+            <h2>Pre-School</h2>
           </div>
           <div class="col-md-7">
-            <p class="paragraph1">The Cambridge Primary curriculum is administered for learners within the age bracket
-              of 5 to 11 years. The program imparts understanding in English, Maths and Science which are core subjects.
-              The schools also have Information and communication technology (ICT) programs for learners to attain
-              computer literacy along with Global Perspectives, Hindi, French (as third language) and Visual Art as a
-              part of primary curriculum.<br>
-              Each framework for English, Mathematics and Science is designed to engage learners in an active and
-              creative learning journey while providing a comprehensive set of progressive learning objectives.<br>
-              Children's social and emotional well-being is an integral part of Primary curriculum. Through PSHE lessons
-              and assemblies we emphasize the importance of life skills such as respect, honesty, kindness and
-              Independence.</p>
+            <p class="paragraph1">Children are enrolled into different programmes according to their age :<br>
+              <strong>Pre-Nursery</strong><br>
+              <strong>Nursery</strong><br>
+              <strong>Kindergarten 1 </strong><br>
+              <strong>Kindergarten 2</strong><br>
+              The thematic curriculum for
+              preschool draws on neuroscientific research, on how the brain learns naturally
+              and which learning experiences are relevant at a particular age and stage in
+              life. Developmental Appropriateness, Brain Compatible Learning and the theory of
+              Multiple Intelligence guide the creatively designed curriculum for preschoolers
+              to ensure learning for all children.
 
-            <button class="read mt-3"> Read More</button>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="rs">
+      <div class="container" data-aos="fade-up" data-aos-delay="200">
+        <div class="row">
+          <div class="col-md-3">
+            <h6>PROGRAMME</h6>
+          </div>
+          <div class="col-md-9"></div>
+        </div>
+        <div class="row">
+          <div class="col-md-5">
+            <h2>Primary School</h2>
+          </div>
+          <div class="col-md-7">
+            <p class="paragraph1">The Curriculum for grades 1-4 is thoughtfully planned to ensure that each child
+              at school enjoys these years in learning, discovery and creative engagement.
+              Research on how the brain learns best, developmental appropriateness, the theory
+              of Multiple Intelligences and the National Curricular Framework, 2005 have
+              guided the planned curriculum.<br> Learning Environment is an affirmative and
+              enabling one. Bright airy learning spaces, creative learning centres,
+              comfortable reading nooks, integrated laboratories, ICT laboratories, exciting
+              and interactive display boards, break out and break free zones and so on create
+              an environment that catalyses learning. Assessment is continuous and
+              comprehensive.<br> An ongoing process, it guides the learner in their pursuit of
+              learning; also, a theme end summative assessment ensures timely feedback on
+              degree of achievement of individuals as well as grade-level outcomes. These, in
+              turn, guide teachers and parents to provide challenge or support, as per need,
+              in a 'timely' and 'effective' manner.<br> The progress of each child is shared
+              through detailed report books along with a portfolio of documented work making
+              learning visible to all. All these thoughtful processes ensure the fulfillment
+              of our ultimate goal of teaching in a way that all students learn.
+            </p>
           </div>
         </div>
       </div>
@@ -104,23 +139,24 @@
         <div class="row">
           <div class="col-md-5">
 
-            <h2>Cambridge Lower Secondary</h2>
+            <h2>Middle School</h2>
           </div>
           <div class="col-md-7">
-            <p class="paragraph1">Cambridge Lower Secondary is typically for learners aged 11 to 14 years. Cambridge
-              lower secondary programme is part of the Cambridge Pathway. The four stages lead seamlessly from lower
-              secondary to secondary and pre-university years. Each stage builds on the learners' development from the
-              previous one or from other educational systems.<br>
-              Cambridge Lower Secondary curriculum prepares students for the next step of their education, providing a
-              clear path as they progress through the Cambridge Pathway in an age-appropriate way.<br>
-              By offering Cambridge Lower Secondary, we provide a broad and balanced education for learners, helping
-              them to thrive throughout their schooling, work and life.<br>
-              The curriculum is flexible, and the content is adapted to suit the school ethos and culture.<br>
-              Cambridge Lower Secondary prepares students for the next stage by developing knowledge, understanding and
-              skills across the programme and developing young learners who are confident, responsible, reflective,
-              innovative and engaged.</p>
-
-            <button class="read mt-3"> Read More</button>
+            <p class="paragraph1">At Birla Open Minds International School, we emphasise on providing an inspiring
+              school environment that enables a shift from rote methods to a course beyond
+              textbooks.<br> The curriculum aims to provide experiences and opportunities for
+              students to think differently, analyse and evaluate independently and foster a
+              place where we can soften subject boundaries and connect knowledge to life
+              outside the school.<br> The Middle School Curriculum at Birla Open Minds though
+              unique, merges seamlessly with the ICSE/CBSE/IB/IGCSE boards. Till class 7,
+              Birla Open Minds offers a unique Birla curriculum and Class 8 onwards the
+              curriculum is designed keeping in mind the culminating Board examination.<br> The
+              co-scholastic areas of the middle school gives the students the opportunity to
+              express themselves - such as arts, drama, music, various individual and team
+              sports and community service projects.<br> Life Skills and Physical Education and
+              Outbound Programmes are also an integral part of the middle and high school
+              curriculum.
+            </p>
           </div>
         </div>
       </div>
@@ -136,19 +172,30 @@
         <div class="row">
           <div class="col-md-5">
 
-            <h2>Cambridge Upper Secondary</h2>
+            <h2>High School</h2>
           </div>
           <div class="col-md-7">
-            <p class="paragraph1">Upper Secondary is typically for learners aged 14 to 16 years. The curriculum provides
-              broad and balanced study across a wide range of subjects, using learner-centred and enquiry-based
-              approaches to learning. Learners take internationally recognised Cambridge IGCSE or Cambridge O Level
-              qualifications at the end of Cambridge Upper Secondary.<br>
-              Cambridge IGCSE helps students to develop knowledge, understanding and skills in subject content and
-              intellectual enquiry. Cambridge IGCSE has been designed for students worldwide, including those whose
-              first language is not English. They offer students the flexibility to choose from over 70 subjects at
-              Cambridge IGCSE, meaning they can study the subjects they enjoy and are best at.</p>
-
-            <button class="read mt-3"> Read More</button>
+            <p class="paragraph1">The Primary and Middle school approach of using experiential and student centric
+              methodologies continues in the Birla Open Minds High School years. The
+              transition is smooth and allows the students to prepare for the school leaving
+              certificate examinations.<br> At the High School stage, the Birla Open Minds
+              International Schools offer a variety of options to the students. The students
+              can opt for the Indian boards such as the CBSE or the CISCE or can opt for the
+              International Curriculum.<br> Students have the choice of opting for the ICSE/ CBSE
+              or IGCSE curriculum in Grade 8.<br> In Grade 11, once again students have the choice
+              of opting for the ISC/CBSE curriculum or the Cambridge A/AS levels.<br> All Open
+              Minds school will be undertaking a feasibility study to consider applying for
+              authorisation to offer the IBDP programme.<br>
+              For more information on these examining board details, visit the following websites:<br>
+              Council for the Indian School Certificate Examinations (CISCE): <a href="www.cisce.org"
+                target="_blank">www.cisce.org</a><br>
+              Central Board of Secondary Education(CBSE): <a href="www.cbse.nic.in"
+                target="_blank">www.cbse.nic.in</a><br>
+              Cambridge International Examinations (CIE): <a href="www.cie.org.uk"
+                target="_blank">www.cie.org.uk</a><br>
+              For further information regarding the International Baccalaureate, kindly refer to: <a href="www.ibo.org"
+                target="_blank">www.ibo.org</a>
+            </p>
           </div>
         </div>
       </div>

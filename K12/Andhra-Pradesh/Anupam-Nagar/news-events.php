@@ -43,9 +43,9 @@
             <div class="image">
               <div class="card news-card">
                 <img src="./img/news1.png" alt="news1 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>News</h6>
                   <p>Mind Spark Newsletter</p>
@@ -57,9 +57,9 @@
             <div class="image">
               <div class="card">
                 <img src="./img/news2.png" alt="news 2 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>News</h6>
                   <p>BOMIS Walkeshwar Offers NIOS</p>
@@ -80,9 +80,9 @@
             <div class="image">
               <div class="card news-card">
                 <img src="./img/news3.png" alt="news 3 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>News</h6>
                   <p>Empower 2021 results</p>
@@ -96,9 +96,9 @@
             <div class="image ">
               <div class="card">
                 <img src="./img/news4.png" alt="news4 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>Blog</h6>
                   <p>Expert Approved Ways Of Being Efficient
@@ -117,9 +117,9 @@
             <div class="image">
               <div class="card">
                 <img src="./img/news5.png" alt="news 2 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>News</h6>
                   <p>Virtual Play with Helen O'Grady
@@ -138,9 +138,9 @@
             <div class="image">
               <div class="card">
                 <img src="./img/news6.png" alt="news 3 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>EVENT</h6>
                   <p>Science olympiad foundation</p>
@@ -163,9 +163,9 @@
             <div class="image ">
               <div class="card">
                 <img src="./img/news7.png" alt="news1 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>Blog</h6>
                   <p>Corona Quilt Project
@@ -174,9 +174,9 @@
                     in the Corona quilt project ‘Rise’ where they contributed
                     stories in the form of sketches and drawings.</p>
                 </div>
-                <div class="icon1">
+                <!-- <div class="icon1">
                   <i class="fa fa-play"></i>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
@@ -184,9 +184,9 @@
             <div class="image">
               <div class="card">
                 <img src="./img/news8.png" alt="news 2 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>News</h6>
                   <p>International Olympiad of Science
@@ -204,18 +204,18 @@
             <div class="image">
               <div class="card">
                 <img src="./img/news9.png" alt="news 3 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>EVENT</h6>
                   <p>A message from our chairman, Yash Birla</p>
                   <p class="para">To help cope with difficult times like these, Mr Yash Birla has some kind words and
                     practical advice for all students.</p>
                 </div>
-                <div class="icon1">
+                <!--  <div class="icon1">
                   <i class="fa fa-play"></i>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
@@ -231,9 +231,9 @@
             <div class="image ">
               <div class="card">
                 <img src="./img/news1.png" alt="news1 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>News</h6>
                   <p>Mind Spark Newsletter</p>
@@ -245,9 +245,9 @@
             <div class="image">
               <div class="card">
                 <img src="./img/news2.png" alt="news 2 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>News</h6>
                   <p>BOMIS Walkeshwar Offers NIOS</p>
@@ -268,9 +268,9 @@
             <div class="image">
               <div class="card">
                 <img src="./img/news3.png" alt="news 3 banner" />
-                <div class="icon">
+                <!-- <div class="icon">
                   <i class="bi bi-share"></i>
-                </div>
+                </div> -->
                 <div class="card-body bg-color">
                   <h6>News</h6>
                   <p>Empower 2021 results</p>
