@@ -240,7 +240,7 @@ body .mobile-nav-toggle {
 }
 #birla .why_choose .left_img img {
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   width: 100%;
   height: 600px;
 }
@@ -291,7 +291,7 @@ body .mobile-nav-toggle {
 }
 #birla .education .image .card img {
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 #birla .news {
   padding: 120px 0 0;
@@ -540,7 +540,14 @@ body .mobile-nav-toggle {
   border: 0;
   padding: 0;
 }
-#birla .about_vision .vision_text #main #faq .card .card-header .btn-header-link {
+#birla
+  .about_vision
+  .vision_text
+  #main
+  #faq
+  .card
+  .card-header
+  .btn-header-link {
   display: block;
   text-align: left;
   background: #f05a2a;
@@ -552,15 +559,36 @@ body .mobile-nav-toggle {
   letter-spacing: -0.18px;
   border-radius: 0 !important;
 }
-#birla .about_vision .vision_text #main #faq .card .card-header .btn-header-link:after {
+#birla
+  .about_vision
+  .vision_text
+  #main
+  #faq
+  .card
+  .card-header
+  .btn-header-link:after {
   content: "\f106";
   font-family: fontawesome;
   float: right;
 }
-#birla .about_vision .vision_text #main #faq .card .card-header .btn-header-link.collapsed {
+#birla
+  .about_vision
+  .vision_text
+  #main
+  #faq
+  .card
+  .card-header
+  .btn-header-link.collapsed {
   background-color: #f05a2a;
 }
-#birla .about_vision .vision_text #main #faq .card .card-header .btn-header-link.collapsed::after {
+#birla
+  .about_vision
+  .vision_text
+  #main
+  #faq
+  .card
+  .card-header
+  .btn-header-link.collapsed::after {
   content: "\f107";
   font-family: fontawesome;
 }
@@ -612,7 +640,13 @@ body .mobile-nav-toggle {
 #birla .vision_text #main #faq .card .card-header .btn-header-link.collapsed {
   background-color: #f05a2a;
 }
-#birla .vision_text #main #faq .card .card-header .btn-header-link.collapsed::after {
+#birla
+  .vision_text
+  #main
+  #faq
+  .card
+  .card-header
+  .btn-header-link.collapsed::after {
   content: "\f107";
   font-family: fontawesome;
 }
@@ -635,7 +669,7 @@ body .mobile-nav-toggle {
   width: 100%;
   height: 400px;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 #birla .people .team .card-body {
   background-color: #f9a226;
@@ -788,7 +822,7 @@ body .mobile-nav-toggle {
 #birla .gallery .photos .post-slide2 .post-img img {
   width: 100%;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 #birla .gallery_collapse .collapse .card #gallery_slider4 {
   opacity: 1 !important;
@@ -846,13 +880,13 @@ body .mobile-nav-toggle {
   width: 100%;
   height: 94vh;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 #birla .learning_env .teachers_parent img {
   width: 100%;
   height: 75.5vh;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 #birla .career {
   padding: 80px 0;
@@ -990,8 +1024,24 @@ body .mobile-nav-toggle {
   font-size: 16px;
   line-height: 23px;
 }
-#birla .contact_form .main-form .form form .form-group .inputBox input:valid ~ span,
-#birla .contact_form .main-form .form form .form-group .inputBox input:focus ~ span {
+#birla
+  .contact_form
+  .main-form
+  .form
+  form
+  .form-group
+  .inputBox
+  input:valid
+  ~ span,
+#birla
+  .contact_form
+  .main-form
+  .form
+  form
+  .form-group
+  .inputBox
+  input:focus
+  ~ span {
   color: white;
   transform: translateX(10px) translateY(-10px);
   padding: 0 10px;
@@ -1004,7 +1054,24 @@ body .mobile-nav-toggle {
 #birla .contact_form .main-form .form form .form-group .inputBox input:focus {
   border: 1px solid red;
 }
-#birla .contact_form .main-form .form form .form-group .inputBox:nth-child(2) input:valid ~ span, #birla .contact_form .main-form .form form .form-group .inputBox:nth-child(2) input:focus ~ span {
+#birla
+  .contact_form
+  .main-form
+  .form
+  form
+  .form-group
+  .inputBox:nth-child(2)
+  input:valid
+  ~ span,
+#birla
+  .contact_form
+  .main-form
+  .form
+  form
+  .form-group
+  .inputBox:nth-child(2)
+  input:focus
+  ~ span {
   background-color: red;
 }
 #birla .contact_form .main-form .form form .form-group ::-moz-placeholder {
@@ -1181,4 +1248,4 @@ a.getstarted {
   font-size: 16px;
   line-height: 20px;
   font-family: "Poppins", sans-serif;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */

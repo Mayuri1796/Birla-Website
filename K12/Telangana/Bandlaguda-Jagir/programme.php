@@ -50,12 +50,12 @@
               </div>
               <a class="carousel-control-prev" href="#custCarousel" data-slide="prev">
                 <span class="carousel-control-prev-icon">
-                  <i class="bi bi-chevron-left"></i>
+                  <i class="fa fa-angle-left"></i>
                 </span>
               </a>
               <a class="carousel-control-next" href="#custCarousel" data-slide="next">
                 <span class="carousel-control-next-icon">
-                  <i class="bi bi-chevron-right"></i>
+                  <i class="fa fa-angle-right"></i>
                 </span>
               </a>
             </div>

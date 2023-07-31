@@ -190,7 +190,6 @@ section {
   margin-right: 6px;
   object-fit: cover;
 }
-
 .header .logo span {
   font-size: 30px;
   font-weight: 700;
@@ -2643,4 +2642,26 @@ form select {
       display: block;
     }
   }
+}
+
+#birla #header .logodiv .logo h6 {
+  font-family: "Poppins", sans-serif;
+}
+a.getstarted {
+  font-family: "Poppins", sans-serif;
+}
+#birla .education .image .card .bg-color h3 {
+  margin-bottom: 0;
+}
+#birla .education .image .card .bg-color {
+  padding: 15px 10px;
+}
+#birla .contact .call_section .para p {
+  color: #000;
+}
+#birla .contact .mail .para p {
+  color: #000;
+}
+#birla .contact-form .main-form form .form-group .form-control {
+  height: auto;
 }
